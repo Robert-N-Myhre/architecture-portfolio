@@ -1,0 +1,24 @@
+site_name: My IT Architecture Portfolio
+nav:
+  - Home: index.md
+  - About Me: about.md
+  - Project Spotlights:
+    - Dual Data Center Architecture: projects/dc-aci-project.md
+    - Azure Multi-Cloud Expansion: projects/multicloud-terraform.md
+    - Multi-Cloud Network Architecture : projects/multicloud-network-architecture.md
+    - SDA Segmentation Strategy (In Progress): projects/sda-segmentation.md
+  - Beyond the Project Spotlights:
+      - Supporting Highlights: projects/highlights.md
+      - Architecture Leadership & Enablement: projects/leadership.md
+      - Actively Growing In: projects/growth.md
+  - My Architectural Philosopy: architectural-philosophy.md
+# Theme settings
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: teal
+
+# Plugins (optional)
+plugins:
+  - search
