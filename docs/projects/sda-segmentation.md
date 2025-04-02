@@ -2,6 +2,7 @@
 
 **Role:** Principal Network Architect  
 **Industry:** Healthcare  
+
 **Status:** In Progress  
 **Key Technologies:** Software-Defined Access (SDA), ISE, SDN, Segmentation Policy, Ansible, Lab Automation, Stakeholder Alignment
 
