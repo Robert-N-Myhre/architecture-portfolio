@@ -1,7 +1,7 @@
 # SDA-Based East-West Segmentation Strategy (In Progress)
 
 **Role:** Principal Network Architect  
-**Industry:** Healthcare
+**Industry:** Healthcare 
 **Status:** In Progress  
 **Key Technologies:** Software-Defined Access (SDA), ISE, SDN, Segmentation Policy, Ansible, Lab Automation, Stakeholder Alignment
 
