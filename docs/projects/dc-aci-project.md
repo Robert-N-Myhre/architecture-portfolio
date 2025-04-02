@@ -2,7 +2,6 @@
 
 **Role:** Lead Network Architect  
 **Industry:** Enterprise Manufacturing/Retail  
-
 **Status:** Completed  
 **Key Technologies:** Cisco ACI Multi-Pod, Nexus 9000, BGP, Data Center Interconnect (DCI), Redundant 10Gbps Links
 
