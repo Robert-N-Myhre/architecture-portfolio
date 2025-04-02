@@ -2,7 +2,6 @@
 
 **Role:** Cloud Networking Architect / Consultant  
 **Industry:** SaaS / Cloud-Native Applications  
-
 **Status:** Completed  
 **Key Technologies:** Azure Hub-and-Spoke, Palo Alto NGFW, Terraform, Workspaces, Modules, AWS TGW
 

@@ -2,7 +2,6 @@
 
 **Role:** Network Architect  
 **Industry:** Healthcare  
-
 **Status:** Completed  
 **Key Technologies:** Megaport MCR, AWS Direct Connect Gateway, Azure VNet Gateway, BGP, NaaS, Multi-Cloud Routing
 
