@@ -59,6 +59,6 @@ Architected a fully redundant cloud and on-prem connectivity model using Megapor
 
 <hr style="margin-top: 1em; margin-bottom: 0.6em;" />
 
-<p style="text-align: center; font-size: 0.75em; color: #888;">
-  Robert N. Myhre · Architecture Snapshot · <a href="https://robert-n-myhre.github.io/architecture-portfolio">robert-n-myhre.github.io/architecture-portfolio</a>
+<p style="text-align: center; font-size: 0.65em; color: #999; margin-top: 0.4em; margin-bottom: 0;">
+  Robert N. Myhre · Architecture Snapshot · <a href="https://robert-n-myhre.github.io/architecture-portfolio" style="color: #999;">robert-n-myhre.github.io/architecture-portfolio</a>
 </p>
