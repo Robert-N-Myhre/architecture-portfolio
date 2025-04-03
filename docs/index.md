@@ -1,3 +1,20 @@
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+<div style="line-height: 1.3; margin-top: 0;">
+  <h1 style="margin-bottom: 0.2em;">Robert N. Myhre, CCIE #9837 (Active)</h1>
+  <p style="margin: 0;"><strong>Principal Network & Cloud Networking Architect</strong></p>
+  <p style="margin: 0;">✉️ ccie9837@gmail.com</p>
+  <p style="margin: 0;">🔗 <a href="https://www.linkedin.com/in/robert-n-myhre">LinkedIn</a>
+</div>
+
+<div>
+  <img src="../assets/ccie_20years_med.jpg" alt="CCIE Logo" style="width: 150px; margin-left: 20px;" />
+</div>
+
+</div>
+
+---
+
 # Welcome
 
 ## Executive Summary
