@@ -20,6 +20,9 @@ theme:
     primary: indigo
     accent: teal
 
+extra_css:
+  - assets/styles/print.css
+
 markdown_extensions:
   - admonition
 
