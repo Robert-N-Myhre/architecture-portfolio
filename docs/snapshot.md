@@ -36,6 +36,8 @@ Experienced Network and Cloud Networking Architect with over 15 years in archite
 
 I believe architecture is more than just diagrams—it’s about solving problems with clarity, scaling with intention, and supporting the teams who inherit what I design. I prioritize simplicity, reuse, collaboration, and alignment with real-world operations.
 
+---
+
 ## [Project Spotlights](https://robert-n-myhre.github.io/architecture-portfolio/#project-spotlights)
 
 ### 🔹 Dual Data Center Architecture (Cisco ACI)
