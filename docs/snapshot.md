@@ -53,5 +53,3 @@ Architected a fully redundant cloud and on-prem connectivity model using Megapor
 - Data Center Architecture (Cisco ACI, Multi-Pod)  
 - Secure Cloud Connectivity (VPN, BGP, SD-WAN)  
 - Cross-Team Collaboration & Mentoring
-
----
