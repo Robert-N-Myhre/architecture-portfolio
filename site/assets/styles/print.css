@@ -1,7 +1,7 @@
 @media print {
     body {
       font-size: 10.25px;
-      line-height: 1.35;
+      line-height: 1.30;
       padding: 0 !important;
       margin: 0 !important;
     }
@@ -18,6 +18,10 @@
   
     .md-typeset {
       padding: 1rem !important;
+    }
+
+    .md-typeset ul li {
+      margin-bottom: 0.1em !important;
     }
 
     #ccie-logo {
