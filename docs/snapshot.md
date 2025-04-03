@@ -56,3 +56,9 @@ Architected a fully redundant cloud and on-prem connectivity model using Megapor
 - Data Center Architecture (Cisco ACI, Multi-Pod)  
 - Secure Cloud Connectivity (VPN, BGP, SD-WAN)  
 - Cross-Team Collaboration & Mentoring
+
+<hr style="margin-top: 1em; margin-bottom: 0.6em;" />
+
+<p style="text-align: center; font-size: 0.75em; color: #888;">
+  Robert N. Myhre · Architecture Snapshot · <a href="https://robert-n-myhre.github.io/architecture-portfolio">robert-n-myhre.github.io/architecture-portfolio</a>
+</p>
