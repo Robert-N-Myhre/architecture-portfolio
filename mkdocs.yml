@@ -1,7 +1,6 @@
 site_name: My IT Architecture Portfolio
 nav:
-  - Home: index.md
-  - About Me: about.md
+  - Welcome: index.md
   - Project Spotlights:
     - Dual Data Center Architecture: projects/dc-aci-project.md
     - Azure Multi-Cloud Expansion: projects/multicloud-terraform.md
@@ -12,12 +11,17 @@ nav:
       - Architecture Leadership & Enablement: projects/leadership.md
       - Actively Growing In: projects/growth.md
   - My Architectural Philosopy: architectural-philosophy.md
+  - About Me: about.md
+  - Snapshot: snapshot.md  
 # Theme settings
 theme:
   name: material
   palette:
     primary: indigo
     accent: teal
+
+markdown_extensions:
+  - admonition
 
 # Plugins (optional)
 plugins:
