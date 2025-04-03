@@ -8,7 +8,7 @@
 </div>
 
 <div>
-  <img src="../assets/ccie_20years_med.jpg" alt="CCIE Logo" style="width: 150px; margin-left: 20px;" />
+  <img src="../assets/images/ccie_20years_med.jpg" alt="CCIE Logo" style="width: 150px; margin-left: 20px;" />
 </div>
 
 </div>

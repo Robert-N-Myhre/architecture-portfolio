@@ -9,7 +9,7 @@
 </div>
 
 <div>
-  <img id="ccie-logo" src="../assets/ccie_20years_med.jpg" alt="CCIE Logo" style="width: 150px; margin-left: 20px;" />
+  <img id="ccie-logo" src="../assets/images/ccie_20years_med.jpg" alt="CCIE Logo" style="width: 150px; margin-left: 20px;" />
 </div>
 
 </div>
@@ -29,6 +29,7 @@
 ## [Summary](https://robert-n-myhre.github.io/architecture-portfolio/)
 
 Experienced Network and Cloud Networking Architect with over 15 years in architectural roles and 23 years as a certified CCIE. I specialize in hybrid and multi-cloud network design, data center transformation, segmentation strategies, and secure connectivity across complex enterprise environments. My approach emphasizes scalable, maintainable design and collaborative leadership.
+---
 
 ## [Architectural Philosophy](https://robert-n-myhre.github.io/architecture-portfolio/architectural-philosophy/)
 
