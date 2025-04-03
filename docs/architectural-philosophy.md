@@ -1,5 +1,8 @@
-# My Architectural Philosophy
+!!! quote "Personal Principle"
 
+    Architecture isn’t just about what I design.  It’s about what others can build on top of it.
+
+# My Architectural Philosophy
 Architecture is more than just design patterns or documentation. It’s how I engage with people, evaluate problems, and design infrastructure that adapts and evolves.
 
 Over the years, I’ve developed a set of principles that guide my approach across projects, platforms, and teams:
@@ -36,5 +39,3 @@ I don’t believe architecture is a one-time effort. As environments change, des
 - Easy to troubleshoot and maintain
 - Grounded in the realities of the teams who support them
 - Designed with automation and infrastructure-as-code (IaC) in mind to support consistent, scalable deployment
-
-Architecture isn’t just about what I design.  It’s about what others can build on top of it.

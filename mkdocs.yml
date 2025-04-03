@@ -22,6 +22,7 @@ theme:
 
 extra_css:
   - assets/styles/print.css
+  - assets/styles/extra.css
 
 markdown_extensions:
   - admonition
