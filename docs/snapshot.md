@@ -1,22 +1,35 @@
-# Robert N. Myhre  
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+<div style="line-height: 1.3; margin-top: 0;">
+  <h1 style="margin-bottom: 0.2em;">Robert N. Myhre, CCIE #9837 (Active)</h1>
+  <p style="margin: 0;"><strong>Principal Network & Cloud Networking Architect</strong></p>
+  <p style="margin: 0;">📎 Portfolio: <a href="https://robert-n-myhre.github.io/architecture-portfolio">robert-n-myhre.github.io/architecture-portfolio</a></p>
+  <p style="margin: 0;">✉️ ccie9837@gmail.com</p>
+  <p style="margin: 0;">🔗 <a href="https://www.linkedin.com/in/robert-n-myhre">LinkedIn</a> · <a href="https://github.com/robert-n-myhre">GitHub</a></p>
+</div>
+
+<div>
+  <img src="../assets/ccie_20years_med.jpg" alt="CCIE Logo" style="width: 150px; margin-left: 20px;" />
+</div>
+
+</div>
+
+
+<!-- # Robert N. Myhre, CCIE #9837 (Active) 
 **Principal Network & Cloud Networking Architect**  
 📎 Portfolio: [robert-n-myhre.github.io/architecture-portfolio](https://robert-n-myhre.github.io/architecture-portfolio)  
 ✉️ ccie9837@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/robert-n-myhre) · [GitHub](https://github.com/robert-n-myhre)
+ -->
 
----
 
-## Availability
-
-!!! info "Now Accepting New Work"
-
-    Currently seeking **fully remote, part-time (~20 hrs/week)** architecture opportunities.
+!!! info "Currently seeking **fully remote, part-time (~20 hrs/week)** architecture opportunities."
 
 ---  
 
 ## [Summary](https://robert-n-myhre.github.io/architecture-portfolio/)
 
-Experienced Network and Cloud Networking Architect with over 15 years in architectural roles and 23 years as a certified (and active) CCIE. I specialize in hybrid and multi-cloud network design, data center transformation, segmentation strategies, and secure connectivity across complex enterprise environments. My approach emphasizes scalable, maintainable design and collaborative leadership.
+Experienced Network and Cloud Networking Architect with over 15 years in architectural roles and 23 years as a certified CCIE. I specialize in hybrid and multi-cloud network design, data center transformation, segmentation strategies, and secure connectivity across complex enterprise environments. My approach emphasizes scalable, maintainable design and collaborative leadership.
 
 ---
 
