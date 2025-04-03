@@ -25,20 +25,14 @@
 
 !!! info "Currently seeking **fully remote, part-time (~20 hrs/week)** architecture opportunities."
 
----  
 
 ## [Summary](https://robert-n-myhre.github.io/architecture-portfolio/)
 
 Experienced Network and Cloud Networking Architect with over 15 years in architectural roles and 23 years as a certified CCIE. I specialize in hybrid and multi-cloud network design, data center transformation, segmentation strategies, and secure connectivity across complex enterprise environments. My approach emphasizes scalable, maintainable design and collaborative leadership.
 
----
-
 ## [Architectural Philosophy](https://robert-n-myhre.github.io/architecture-portfolio/architectural-philosophy/)
 
-
 I believe architecture is more than just diagrams—it’s about solving problems with clarity, scaling with intention, and supporting the teams who inherit what I design. I prioritize simplicity, reuse, collaboration, and alignment with real-world operations.
-
----
 
 ## [Project Spotlights](https://robert-n-myhre.github.io/architecture-portfolio/#project-spotlights)
 
@@ -50,8 +44,6 @@ Guided an AWS-heavy environment into Azure using Terraform and mirrored Hub-Spok
 
 ### 🔹 Multi-Cloud Connectivity (Megaport MCR)
 Architected a fully redundant cloud and on-prem connectivity model using Megaport’s MCRs and BGP, enabling scalable multi-region cloud adoption.
-
----
 
 ## [Core Focus Areas](https://robert-n-myhre.github.io/architecture-portfolio/projects/highlights/)
 
