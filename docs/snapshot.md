@@ -49,6 +49,8 @@ Guided an AWS-heavy environment into Azure using Terraform and mirrored Hub-Spok
 ### 🔹 Multi-Cloud Connectivity (Megaport MCR)
 Architected a fully redundant cloud and on-prem connectivity model using Megaport’s MCRs and BGP, enabling scalable multi-region cloud adoption.
 
+---
+
 ## [Core Focus Areas](https://robert-n-myhre.github.io/architecture-portfolio/projects/highlights/)
 
 - Hybrid & Multi-Cloud Architecture (AWS / Azure)  
