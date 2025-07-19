@@ -1,0 +1,10 @@
+/* Force tighter spacing after the main title */
+.md-typeset h1 {
+    margin-bottom: 0.3em !important;
+  }
+  
+  /* Reduce top margin on the first paragraph after h1 */
+  .md-typeset h1 + p {
+    margin-top: 0.3em !important;
+  }
+  
