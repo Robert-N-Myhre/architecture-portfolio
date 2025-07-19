@@ -23,8 +23,6 @@ I’m a Network and Cloud **Networking** Architect with over 15 years of experie
 
 I specialize in data center architecture, hybrid and multi-cloud network design, and secure connectivity between cloud and on-prem environments. My architectural decisions are rooted in scalability, simplicity, and maintainability—favoring best-of-breed solutions that meet business and operational needs. I leverage infrastructure-as-code and NetDevOps principles to accelerate delivery and consistency, and have designed repeatable frameworks across public cloud platforms and traditional enterprise networks. My experience also includes campus segmentation strategies (SDA, ISE) and automation-enabled underlay deployments.
 
-Currently seeking a **fully remote, part-time (~20 hrs/week)** architecture role supporting network transformation, hybrid cloud adoption, or cross-platform integration initiatives.
-
 ---
 
 ## Project Spotlights
