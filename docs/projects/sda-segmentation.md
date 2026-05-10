@@ -37,6 +37,8 @@ The organization had previously implemented perimeter firewalls to control North
 - Aligned external vendor support to assist with advanced SDA testing and integration planning
 
 
+---
+
 ## Current Status
 
 - Foundational SDA fabric design complete  

@@ -1,4 +1,4 @@
-site_name: My IT Architecture Portfolio
+site_name: Robert Myhre | Network & Cloud Architecture
 nav:
   - Welcome: index.md
   - Project Spotlights:
@@ -10,7 +10,7 @@ nav:
       - Supporting Highlights: projects/highlights.md
       - Architecture Leadership & Enablement: projects/leadership.md
       - Actively Growing In: projects/growth.md
-  - My Architectural Philosopy: architectural-philosophy.md
+  - My Architectural Philosophy: architectural-philosophy.md
   - About Me: about.md
   - Snapshot: snapshot.md  
 # Theme settings

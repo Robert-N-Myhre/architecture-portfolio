@@ -4,7 +4,7 @@
   <h1 style="margin-bottom: 0.2em;">Robert N. Myhre, CCIE #9837 (Active)</h1>
   <p style="margin: 0;"><strong>Principal Network & Cloud Networking Architect</strong></p>
   <p style="margin: 0;">✉️ ccie9837@gmail.com</p>
-  <p style="margin: 0;">🔗 <a href="https://www.linkedin.com/in/robert-n-myhre">LinkedIn</a>
+  <p style="margin: 0;">🔗 <a href="https://www.linkedin.com/in/robert-n-myhre">LinkedIn</a></p>
 </div>
 
 <div>
@@ -30,7 +30,7 @@ I specialize in data center architecture, hybrid and multi-cloud network design,
 - [Dual Data Center Architecture with Cisco ACI](projects/dc-aci-project.md)
 - [Azure Multi-Cloud Expansion with Terraform](projects/multicloud-terraform.md)
 - [Multi-Cloud Connectivity via Megaport MCRs](projects/multicloud-network-architecture.md)
-- [SDA-Based East-West Segmentation Strategy (In Progress)](projects/sda-segmentation.md) -->
+- [SDA-Based East-West Segmentation Strategy (In Progress)](projects/sda-segmentation.md)
 
 ---
 
