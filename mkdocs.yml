@@ -1,18 +1,21 @@
-site_name: Robert Myhre | Network & Cloud Architecture
+site_name: "Robert Myhre | Network & Cloud Networking Architecture"
 nav:
   - Welcome: index.md
   - Project Spotlights:
     - Dual Data Center Architecture: projects/dc-aci-project.md
     - Azure Multi-Cloud Expansion: projects/multicloud-terraform.md
-    - Multi-Cloud Network Architecture : projects/multicloud-network-architecture.md
+    - Multi-Cloud Network Architecture: projects/multicloud-network-architecture.md
     - SDA Segmentation Strategy (In Progress): projects/sda-segmentation.md
-  - Beyond the Project Spotlights:
-      - Supporting Highlights: projects/highlights.md
-      - Architecture Leadership & Enablement: projects/leadership.md
-      - Actively Growing In: projects/growth.md
+  - Reference Architectures:
+      - AI Automation-Monitor → Classify → Escalate: reference-architectures/monitor-classify-escalate.md
+  - Portfolio Evidence:
+      - Selected Architecture Contributions: portfolio/selected-contributions.md
+      - Architecture Leadership & Enablement: portfolio/leadership-enablement.md
+  - Current Focus:
+      - AI-Era Infrastructure Networking & Lab Validation: current-focus.md
   - My Architectural Philosophy: architectural-philosophy.md
   - About Me: about.md
-  - Snapshot: snapshot.md  
+  - Snapshot: snapshot.md
 # Theme settings
 theme:
   name: material
