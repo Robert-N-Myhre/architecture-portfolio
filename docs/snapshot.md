@@ -20,7 +20,7 @@
 
 ## [Summary](https://robert-n-myhre.github.io/architecture-portfolio/)
 
-Network and Cloud Networking Architect with over 15 years in architectural roles and more than two decades as an active CCIE. My work focuses on data center architecture, hybrid and multi-cloud network design, secure connectivity, segmentation strategy, and repeatable infrastructure patterns across complex enterprise environments.
+Network and Cloud Networking Architect with over 15 years in architectural roles and more than two decades as a CCIE (active). My work focuses on data center architecture, hybrid and multi-cloud network design, secure connectivity, segmentation strategy, and repeatable infrastructure patterns across complex enterprise environments.
 
 My current direction extends that foundation into AI-era infrastructure networking: high-performance fabric behavior, observability, automation, and lab-validated architecture patterns that help bridge emerging workloads with operationally supportable infrastructure.
 
