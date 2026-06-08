@@ -40,6 +40,7 @@ I specialize in data center architecture, hybrid and multi-cloud network design,
 Reusable, vendor-neutral architecture patterns with governance and auditability built in:
 
 - [AI Automation — Monitor → Classify → Escalate](reference-architectures/monitor-classify-escalate.md)
+- [AI Automation — Plan → Approve → Execute → Verify](reference-architectures/plan-approve-execute-verify.md)
 
 ---
 

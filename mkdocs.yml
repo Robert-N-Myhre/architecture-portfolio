@@ -8,6 +8,7 @@ nav:
     - SDA Segmentation Strategy (In Progress): projects/sda-segmentation.md
   - Reference Architectures:
       - AI Automation-Monitor → Classify → Escalate: reference-architectures/monitor-classify-escalate.md
+      - AI Automation-Plan → Approve → Execute → Verify: reference-architectures/plan-approve-execute-verify.md
   - Portfolio Evidence:
       - Selected Architecture Contributions: portfolio/selected-contributions.md
       - Architecture Leadership & Enablement: portfolio/leadership-enablement.md
