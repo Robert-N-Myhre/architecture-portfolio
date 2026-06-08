@@ -20,13 +20,23 @@
 
 ## [Summary](https://robert-n-myhre.github.io/architecture-portfolio/)
 
-Experienced Network and Cloud Networking Architect with over 15 years in architectural roles and 24 years as a certified CCIE. I specialize in hybrid and multi-cloud network design, data center transformation, segmentation strategies, and secure connectivity across complex enterprise environments. My approach emphasizes scalable, maintainable design and collaborative leadership.
+Network and Cloud Networking Architect with over 15 years in architectural roles and more than two decades as an active CCIE. My work focuses on data center architecture, hybrid and multi-cloud network design, secure connectivity, segmentation strategy, and repeatable infrastructure patterns across complex enterprise environments.
+
+My current direction extends that foundation into AI-era infrastructure networking: high-performance fabric behavior, observability, automation, and lab-validated architecture patterns that help bridge emerging workloads with operationally supportable infrastructure.
 
 ---
 
 ## [Architectural Philosophy](https://robert-n-myhre.github.io/architecture-portfolio/architectural-philosophy/)
 
-I believe architecture is more than just diagrams—it’s about solving problems with clarity, scaling with intention, and supporting the teams who inherit what I design. I prioritize simplicity, reuse, collaboration, and alignment with real-world operations.
+I design infrastructure with an emphasis on clarity, maintainability, operational handoff, and future adaptability. My architectural approach favors practical designs that teams can understand, validate, operate, and extend—not just diagrams that look complete on paper.
+
+Core principles include:
+
+- Build systems others can operate and evolve
+- Validate assumptions through labs, testing, and evidence
+- Prefer repeatable patterns over one-off designs
+- Use automation to improve consistency without hiding complexity
+- Treat observability and operational readiness as design requirements
 
 ---
 
@@ -46,14 +56,32 @@ Architected a fully redundant cloud and on-prem connectivity model using Megapor
 
 ---
 
+## [Reference Architectures](https://robert-n-myhre.github.io/architecture-portfolio/#reference-architectures)
+
+I also publish sanitized reference architecture patterns that translate enterprise architecture thinking into reusable models. These are designed to be adaptable starting points, not fixed vendor-specific blueprints.
+
+Current reference architecture themes include:
+
+- Monitoring and classification workflows
+- Human escalation and decision points
+- Auditability and explainability
+- AI-assisted operational patterns
+- Architecture patterns that can be tuned to specific business requirements
+
+---
+
 ## [Core Focus Areas](https://robert-n-myhre.github.io/architecture-portfolio/portfolio/selected-contributions/)
 
-- Hybrid & Multi-Cloud Architecture (AWS / Azure)
-- Network Segmentation (SDA, ISE, Zoning)
-- Infrastructure as Code (Terraform, Ansible)
-- Data Center Architecture (Cisco ACI, Multi-Pod)
-- Secure Cloud Connectivity (VPN, BGP, SD-WAN)
-- Cross-Team Collaboration & Mentoring
+- Network & Cloud Networking Architecture
+- Hybrid and Multi-Cloud Connectivity
+- Data Center Architecture and Fabric Design
+- Segmentation Strategy: SDA, ISE, Zoning
+- Secure Cloud Connectivity: VPN, BGP, SD-WAN
+- Infrastructure as Code: Terraform, Ansible
+- Lab Validation and Architecture Testing
+- Observability-Driven Infrastructure Design
+- AI-Era Infrastructure Networking Exploration
+- Cross-Team Collaboration, Mentoring, and Enablement
 
 <hr style="margin-top: 1em; margin-bottom: 0.6em;" />
 
