@@ -20,7 +20,7 @@
 
 ## [Summary](https://robert-n-myhre.github.io/architecture-portfolio/)
 
-Experienced Network and Cloud Networking Architect with over 15 years in architectural roles and 23 years as a certified CCIE. I specialize in hybrid and multi-cloud network design, data center transformation, segmentation strategies, and secure connectivity across complex enterprise environments. My approach emphasizes scalable, maintainable design and collaborative leadership.
+Experienced Network and Cloud Networking Architect with over 15 years in architectural roles and 24 years as a certified CCIE. I specialize in hybrid and multi-cloud network design, data center transformation, segmentation strategies, and secure connectivity across complex enterprise environments. My approach emphasizes scalable, maintainable design and collaborative leadership.
 
 ---
 
@@ -46,7 +46,7 @@ Architected a fully redundant cloud and on-prem connectivity model using Megapor
 
 ---
 
-## [Core Focus Areas](https://robert-n-myhre.github.io/architecture-portfolio/projects/highlights/)
+## [Core Focus Areas](https://robert-n-myhre.github.io/architecture-portfolio/portfolio/selected-contributions/)
 
 - Hybrid & Multi-Cloud Architecture (AWS / Azure)
 - Network Segmentation (SDA, ISE, Zoning)
