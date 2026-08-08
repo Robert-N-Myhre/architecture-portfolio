@@ -31,13 +31,13 @@ This portfolio captures both sides of that work: established enterprise architec
 
 Hands-on projects and case studies used to test architectural assumptions, measure behavior, and identify where designs succeed or fail.
 
-- **[MCP Platform Case Study](https://github.com/Robert-N-Myhre/mcp-platform-case-study)**
+- **[MCP Platform Case Study](projects/mcp-platform-case-study.md)**
   Built and validated a centralized MCP platform, then rejected the reusable-platform hypothesis when implementation evidence showed the abstraction was not reducing integration cost.
 
-- **[MoE Routing Observability](https://github.com/Robert-N-Myhre/moe-routing-observability)**
+- **[MoE Routing Observability](projects/moe-routing-observability.md)**
   Multi-GPU investigation of mixture-of-experts routing, topology, communication behavior, and observability.
 
-- **[Prompt Guardrail / Single-GPU Co-residency](https://github.com/Robert-N-Myhre/Prompt-guardrail-single-gpu)**
+- **[Prompt Guardrail / Single-GPU Co-residency](projects/prompt-guardrail-single-gpu.md)**
   Experimental evaluation of guardrail and workload co-residency constraints on a single GPU.
 
 ### Enterprise Infrastructure Architecture
