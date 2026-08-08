@@ -1,8 +1,8 @@
 # MoE Routing Observability
 
-**Context:** Independent AI infrastructure research  
-**Status:** Completed research series  
-**Domain:** Multi-GPU inference, Mixture of Experts, observability, NUMA/PCIe topology, model placement  
+**Context:** Independent AI infrastructure research<br>
+**Status:** Completed research series<br>
+**Domain:** Multi-GPU inference, Mixture of Experts, observability, NUMA/PCIe topology, model placement<br>
 **Repository:** [View the public research repository on GitHub](https://github.com/Robert-N-Myhre/moe-routing-observability)
 
 ## Overview

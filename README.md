@@ -60,5 +60,6 @@ docs/
 ├── index.md                  # Portfolio home page
 ├── about.md                  # About / professional background
 └── snapshot.md               # Standalone architecture snapshot
+```
 
 The site is built with **MkDocs Material** and deployed automatically through **GitHub Actions**.

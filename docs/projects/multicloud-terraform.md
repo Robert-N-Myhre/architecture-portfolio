@@ -1,9 +1,9 @@
 # Multi-Cloud Architecture: Preserving Patterns Without Forcing Symmetry
 
-**Role:** Cloud Networking Architect / Consultant
-**Context:** SaaS / cloud-native enterprise
-**Status:** Completed
-**Selected Architecture:** Azure hub-and-spoke with centralized Palo Alto inspection
+**Role:** Cloud Networking Architect / Consultant<br>
+**Context:** SaaS / cloud-native enterprise<br>
+**Status:** Completed<br>
+**Selected Architecture:** Azure hub-and-spoke with centralized Palo Alto inspection<br>
 **Delivery Model:** Terraform aligned to established AWS standards
 
 ---

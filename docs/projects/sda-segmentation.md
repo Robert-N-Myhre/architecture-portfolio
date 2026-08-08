@@ -1,8 +1,8 @@
 # Enterprise Segmentation Architecture: Evidence-Based Platform Evaluation
 
-**Role:** Principal Architect
-**Context:** Large regulated enterprise
-**Status:** Platform evaluation completed; architecture direction reassessed
+**Role:** Principal Architect<br>
+**Context:** Large regulated enterprise<br>
+**Status:** Platform evaluation completed; architecture direction reassessed<br>
 **Evaluated Platform:** Cisco Software-Defined Access (SDA)
 
 > This case study intentionally generalizes organization-specific implementation details, internal findings, and current technology decisions. The focus is the architecture evaluation method and the reasoning used to determine fit for the business challenge.

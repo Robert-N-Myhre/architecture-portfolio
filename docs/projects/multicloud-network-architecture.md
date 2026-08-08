@@ -1,9 +1,9 @@
 # Multi-Cloud Connectivity: Choosing a Network-as-a-Service Model
 
-**Role:** Principal Architect
-**Context:** Large regulated enterprise
-**Status:** Completed; architecture in continued use
-**Selected Model:** Network-as-a-Service (NaaS)
+**Role:** Principal Architect<br>
+**Context:** Large regulated enterprise<br>
+**Status:** Completed; architecture in continued use<br>
+**Selected Model:** Network-as-a-Service (NaaS)<br>
 **Selected Platform:** Megaport
 
 > This case study intentionally generalizes organization-specific topology, commercial arrangements, provider details, and current contract decisions. The focus is the architecture model, evaluation criteria, and tradeoffs that shaped the decision.

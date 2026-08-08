@@ -1,8 +1,8 @@
 # Prompt Security Guardrails on a Single GPU
 
-**Context:** Independent AI infrastructure and safety research  
-**Status:** Completed research series; conditional architecture decision  
-**Domain:** AI guardrails, GPU co-residency, deterministic orchestration, prompt injection, inference resource constraints  
+**Context:** Independent AI infrastructure and safety research<br>
+**Status:** Completed research series; conditional architecture decision<br>
+**Domain:** AI guardrails, GPU co-residency, deterministic orchestration, prompt injection, inference resource constraints<br>
 **Repository:** [View the public research repository on GitHub](https://github.com/Robert-N-Myhre/Prompt-guardrail-single-gpu)
 
 ## Overview

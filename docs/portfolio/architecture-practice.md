@@ -16,7 +16,7 @@ These examples span multiple roles and stages of my architecture career and are 
 
 - **Integrated disaster recovery and failover considerations** into architecture designs and validation planning.
 
-- **Developed segmentation strategies** for wireless and campus environments using SSID-to-zone mapping, peer-to-peer restrictions, policy boundaries, and transitional designs leading toward broader SDA-based segmentation.
+- **Developed segmentation strategies** for wireless and campus environments using SSID-to-zone mapping, peer-to-peer restrictions, policy boundaries, and evaluation of fabric-based approaches for broader enterprise segmentation.
 
 ## Leadership & Enablement
 

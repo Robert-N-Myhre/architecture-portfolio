@@ -66,5 +66,6 @@ My architecture work is grounded in a simple principle: emerging technology beco
 
 I use design, implementation, lab validation, measurement, and documented decisions to determine what is supportable, what needs to change, and sometimes what should not be built.
 
+- [Architecture Practice & Leadership](portfolio/architecture-practice.md)
 - [Architectural Philosophy](architectural-philosophy.md)
 - [About Me](about.md)

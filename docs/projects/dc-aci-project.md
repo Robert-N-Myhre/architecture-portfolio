@@ -1,8 +1,8 @@
 # Dual Data Center Architecture: Choosing the Right Fabric Model
 
-**Role:** Lead Network Architect  
-**Context:** Enterprise data center relocation and secondary-site expansion
-**Status:** Completed  
+**Role:** Lead Network Architect<br>
+**Context:** Enterprise data center relocation and secondary-site expansion<br>
+**Status:** Completed<br>
 **Selected Architecture:** Cisco ACI Multi-Pod
 
 ---

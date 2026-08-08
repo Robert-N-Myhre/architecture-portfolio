@@ -1,8 +1,8 @@
 # MCP Platform Case Study: Build, Validate, Reject
 
-**Context:** Independent architecture research  
-**Status:** Completed; platform development deliberately closed
-**Domain:** MCP infrastructure, identity, security boundaries, workload isolation, platform architecture  
+**Context:** Independent architecture research<br>
+**Status:** Completed; platform development deliberately closed<br>
+**Domain:** MCP infrastructure, identity, security boundaries, workload isolation, platform architecture<br>
 **Repository:** [View the public case study on GitHub](https://github.com/Robert-N-Myhre/mcp-platform-case-study)
 
 ## Overview

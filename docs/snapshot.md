@@ -49,7 +49,7 @@ These case studies focus less on the products selected and more on the reasoning
 
 ### [Dual Data Center Architecture: Choosing the Right Fabric Model](projects/dc-aci-project.md)
 
-Compared traditional data center architecture and multiple Cisco ACI deployment models. Compared traditional data center architecture and multiple Cisco ACI deployment models. Multi-Pod repeatedly proved to be an effective balance of policy consistency, dual-site resiliency, and operational complexity in the environments where I applied the pattern.
+Compared traditional data center architecture and multiple Cisco ACI deployment models. Multi-Pod repeatedly proved to be an effective balance of policy consistency, dual-site resiliency, and operational complexity in the environments where I applied the pattern.
 
 ### [Multi-Cloud Connectivity: Choosing a Network-as-a-Service Model](projects/multicloud-network-architecture.md)
 
