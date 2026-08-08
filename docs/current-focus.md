@@ -1,12 +1,13 @@
-# Actively Growing In
+# Current Architecture Work
 
-Architecture is never static—and neither is my mindset. While I bring deep experience in network and cloud architecture, I actively seek out opportunities to evolve my thinking, tools, and techniques. Here are a few areas I’m intentionally investing in right now:
+This page previously described areas I was actively developing.
 
-- **Observability & Monitoring Integration** - While monitoring and logging are typically owned by operations, I'm learning how to architect systems with built-in observability considerations. I’m exploring ways to integrate telemetry and visibility into design handoffs, especially in cloud and fabric-based environments.
-- **Cloud Security Architecture** - As multi-cloud environments mature, I’m strengthening my understanding of security frameworks and how they intersect with routing, segmentation, and policy enforcement—especially when working with hybrid or decentralized teams.
-- **Infrastructure Pipelines** - I'm refining how I incorporate Terraform and Ansible into modular, reusable pipelines that can be easily adopted by operational teams. I'm exploring GitHub Actions and CI/CD for infrastructure deployments, particularly in multi-cloud environments.
-- **Voice and Collaboration Technologies (High-Level)** - While I partner with voice teams today, I’m building a stronger high-level understanding of UC architecture to better support end-to-end design conversations across all infrastructure domains.
-- **Lab-Driven Prototyping** - I continue to expand my use of lab environments (CML, ProxMox, container labs) to simulate and validate complex designs before production. It also enables better collaboration with engineers during the evaluation and decision-making process.
+That work has since matured and is now represented directly through the portfolio’s architecture case studies, research, and reference architectures.
 
+## Current Work
 
-> Growth isn’t just about technical skills—it’s about staying curious, collaborative, and open to new ways of solving problems.
+- [AI Infrastructure & Agentic Systems](index.md#ai-infrastructure--agentic-systems)
+- [Enterprise Architecture Decisions](index.md#enterprise-architecture-decisions)
+- [Reference Architectures](index.md#reference-architectures)
+
+For additional context on how these areas fit into my broader architecture practice, see [About Me](about.md).
