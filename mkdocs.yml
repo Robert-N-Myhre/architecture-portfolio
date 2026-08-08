@@ -1,22 +1,30 @@
-site_name: "Robert Myhre | Network & Cloud Networking Architecture"
+site_name: "Robert Myhre | Architecture Portfolio"
+
 nav:
-  - Welcome: index.md
-  - Project Spotlights:
-    - Dual Data Center Architecture: projects/dc-aci-project.md
-    - Azure Multi-Cloud Expansion: projects/multicloud-terraform.md
-    - Multi-Cloud Network Architecture: projects/multicloud-network-architecture.md
-    - SDA Segmentation Strategy (In Progress): projects/sda-segmentation.md
+  - Home: index.md
+
+  - Selected Work:
+      - AI Infrastructure & Agentic Systems:
+          - MCP Platform Case Study: projects/mcp-platform-case-study.md
+          - MoE Routing Observability: projects/moe-routing-observability.md
+          - Prompt Security Guardrails: projects/prompt-guardrail-single-gpu.md
+
+      - Enterprise Infrastructure Architecture:
+          - Dual Data Center Architecture: projects/dc-aci-project.md
+          - Multi-Cloud Connectivity Architecture: projects/multicloud-network-architecture.md
+          - Azure Multi-Cloud Expansion with Terraform: projects/multicloud-terraform.md
+          - SDA Segmentation Strategy: projects/sda-segmentation.md
+
   - Reference Architectures:
-      - AI Automation-Monitor → Classify → Escalate: reference-architectures/monitor-classify-escalate.md
-      - AI Automation-Plan → Approve → Execute → Verify: reference-architectures/plan-approve-execute-verify.md
-  - Portfolio Evidence:
-      - Selected Architecture Contributions: portfolio/selected-contributions.md
-      - Architecture Leadership & Enablement: portfolio/leadership-enablement.md
-  - Current Focus:
-      - AI-Era Infrastructure Networking & Lab Validation: current-focus.md
-  - My Architectural Philosophy: architectural-philosophy.md
-  - About Me: about.md
-  - Snapshot: snapshot.md
+      - Monitor → Classify → Escalate: reference-architectures/monitor-classify-escalate.md
+      - Plan → Approve → Execute → Verify: reference-architectures/plan-approve-execute-verify.md
+
+  - Architecture Practice:
+      - Architecture Practice & Leadership: portfolio/architecture-practice.md
+      - Architectural Philosophy: architectural-philosophy.md
+
+  - About: about.md
+
 # Theme settings
 theme:
   name: material

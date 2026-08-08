@@ -2,8 +2,7 @@
 
 <div style="line-height: 1.3; margin-top: 0;">
   <h1 style="margin-bottom: 0.2em;">Robert N. Myhre, CCIE #9837 (Active)</h1>
-  <p style="margin: 0;"><strong>Principal Network & Cloud Networking Architect</strong></p>
-  <p style="margin: 0;">Emerging focus: AI-era infrastructure networking, governed automation, and lab-validated architecture</p>
+  <p style="margin: 0;"><strong>Principal Architect | AI Infrastructure, Networking & Automation</strong></p>
   <p style="margin: 0;">✉️ ccie9837@gmail.com</p>
   <p style="margin: 0;">🔗 <a href="https://www.linkedin.com/in/robert-n-myhre">LinkedIn</a></p>
 </div>
@@ -16,47 +15,56 @@
 
 ---
 
-# Welcome
+# Architecture Portfolio
 
-## Executive Summary
+I’m a principal-level infrastructure architect and dual CCIE with more than 25 years in enterprise infrastructure and more than 15 years in architecture roles.
 
-I’m a Network and Cloud **Networking** Architect with over 15 years of architectural experience, building scalable, secure infrastructure across enterprise, healthcare, data center, and hybrid/multi-cloud environments. My **CCIE certification, held continuously for 24 years and currently active**, reflects a long-standing networking foundation that continues to shape how I approach architecture: technically grounded, operationally realistic, and focused on outcomes that can be built, supported, governed, and sustained.
+My foundation is deep enterprise networking, data center, and cloud architecture. My current architecture work increasingly intersects with AI infrastructure, while my independent research goes deeper into the systems required to operate AI reliably: multi-GPU infrastructure, high-performance networking, observability, governed agentic systems, MCP, infrastructure automation, and enterprise Kubernetes patterns.
 
-I specialize in data center architecture, hybrid and multi-cloud network design, secure connectivity, segmentation, and automation-enabled network delivery. My current focus is expanding toward **AI-era infrastructure networking** and governed automation: understanding how emerging enterprise AI patterns affect connectivity, telemetry, observability, workload placement, data movement, and controlled AI-assisted operations.
+This portfolio captures both sides of that work: established enterprise architecture and hands-on investigation of emerging infrastructure systems.
 
 ---
 
-## Project Spotlights
+## Selected Work
+
+### AI Infrastructure & Agentic Systems
+
+Hands-on projects and case studies used to test architectural assumptions, measure behavior, and identify where designs succeed or fail.
+
+- **[MCP Platform Case Study](https://github.com/Robert-N-Myhre/mcp-platform-case-study)**
+  Built and validated a centralized MCP platform, then rejected the reusable-platform hypothesis when implementation evidence showed the abstraction was not reducing integration cost.
+
+- **[MoE Routing Observability](https://github.com/Robert-N-Myhre/moe-routing-observability)**
+  Multi-GPU investigation of mixture-of-experts routing, topology, communication behavior, and observability.
+
+- **[Prompt Guardrail / Single-GPU Co-residency](https://github.com/Robert-N-Myhre/Prompt-guardrail-single-gpu)**
+  Experimental evaluation of guardrail and workload co-residency constraints on a single GPU.
+
+### Enterprise Infrastructure Architecture
+
+Selected architecture work spanning data center, cloud, segmentation, connectivity, and automation.
 
 - [Dual Data Center Architecture with Cisco ACI](projects/dc-aci-project.md)
-- [Azure Multi-Cloud Expansion with Terraform](projects/multicloud-terraform.md)
 - [Multi-Cloud Connectivity via Megaport MCRs](projects/multicloud-network-architecture.md)
-- [SDA-Based East-West Segmentation Strategy (In Progress)](projects/sda-segmentation.md)
+- [Azure Multi-Cloud Expansion with Terraform](projects/multicloud-terraform.md)
+- [SDA-Based East-West Segmentation Strategy](projects/sda-segmentation.md)
 
 ---
 
 ## Reference Architectures
 
-Reusable, vendor-neutral architecture patterns with governance and auditability built in:
+Reusable architecture patterns focused on governed automation, explicit authority boundaries, deterministic controls, and auditability.
 
-- [AI Automation — Monitor → Classify → Escalate](reference-architectures/monitor-classify-escalate.md)
-- [AI Automation — Plan → Approve → Execute → Verify](reference-architectures/plan-approve-execute-verify.md)
-
----
-
-## Portfolio Evidence
-
-Additional architecture contributions, repeatable design work, mentoring, and team enablement:
-
-- [Selected Architecture Contributions](portfolio/selected-contributions.md)
-- [Architecture Leadership & Enablement](portfolio/leadership-enablement.md)
+- [Monitor → Classify → Escalate](reference-architectures/monitor-classify-escalate.md)
+- [Plan → Approve → Execute → Verify](reference-architectures/plan-approve-execute-verify.md)
 
 ---
 
-## Current Focus
+## Architecture Practice
 
-Where my architecture work is currently expanding: AI-era infrastructure networking, governed automation, observability, lab validation, and emerging infrastructure patterns.
+My architecture work is grounded in a simple principle: emerging technology becomes useful only when its assumptions, constraints, operational boundaries, and failure modes are understood.
 
-- [AI-Era Infrastructure Networking & Lab Validation](current-focus.md)
+I use design, implementation, lab validation, measurement, and documented decisions to determine what is supportable, what needs to change, and sometimes what should not be built.
 
-
+- [Architectural Philosophy](architectural-philosophy.md)
+- [About Me](about.md)
