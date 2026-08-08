@@ -9,11 +9,11 @@ nav:
           - MoE Routing Observability: projects/moe-routing-observability.md
           - Prompt Security Guardrails: projects/prompt-guardrail-single-gpu.md
 
-      - Enterprise Infrastructure Architecture:
-          - Dual Data Center Architecture: projects/dc-aci-project.md
-          - Multi-Cloud Connectivity Architecture: projects/multicloud-network-architecture.md
-          - Azure Multi-Cloud Expansion with Terraform: projects/multicloud-terraform.md
-          - SDA Segmentation Strategy: projects/sda-segmentation.md
+      - Enterprise Architecture Decisions:
+          - Data Center Fabric Model: projects/dc-aci-project.md
+          - Multi-Cloud NaaS Model: projects/multicloud-network-architecture.md
+          - Multi-Cloud Pattern Alignment: projects/multicloud-terraform.md
+          - Enterprise Segmentation Evaluation: projects/sda-segmentation.md
 
   - Reference Architectures:
       - Monitor → Classify → Escalate: reference-architectures/monitor-classify-escalate.md

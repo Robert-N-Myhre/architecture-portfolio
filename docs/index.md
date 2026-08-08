@@ -40,14 +40,14 @@ Hands-on projects and case studies used to test architectural assumptions, measu
 - **[Prompt Guardrail / Single-GPU Co-residency](projects/prompt-guardrail-single-gpu.md)**
   Experimental evaluation of guardrail and workload co-residency constraints on a single GPU.
 
-### Enterprise Infrastructure Architecture
+### Enterprise Architecture Decisions
 
-Selected architecture work spanning data center, cloud, segmentation, connectivity, and automation.
+Selected case studies focused on architectural tradeoffs, validation, and decisions made under real enterprise constraints.
 
-- [Dual Data Center Architecture with Cisco ACI](projects/dc-aci-project.md)
-- [Multi-Cloud Connectivity via Megaport MCRs](projects/multicloud-network-architecture.md)
-- [Azure Multi-Cloud Expansion with Terraform](projects/multicloud-terraform.md)
-- [SDA-Based East-West Segmentation Strategy](projects/sda-segmentation.md)
+- [Dual Data Center Architecture: Choosing the Right Fabric Model](projects/dc-aci-project.md)
+- [Multi-Cloud Connectivity: Choosing a Network-as-a-Service Model](projects/multicloud-network-architecture.md)
+- [Multi-Cloud Architecture: Preserving Patterns Without Forcing Symmetry](projects/multicloud-terraform.md)
+- [Enterprise Segmentation Architecture: Evidence-Based Platform Evaluation](projects/sda-segmentation.md)
 
 ---
 
