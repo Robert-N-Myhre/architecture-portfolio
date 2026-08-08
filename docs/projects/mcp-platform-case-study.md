@@ -72,7 +72,6 @@ Several architectural principles survived the rejected implementation:
 
 - per-client identity
 - verified server and workload identity
-- verified workload identity
 - isolated and immutable workloads
 
 Those principles, along with unresolved identity and authorization questions, became requirements for the next architecture rather than reasons to preserve the original implementation.

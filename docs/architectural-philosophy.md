@@ -13,7 +13,7 @@ Over the years, I’ve developed a set of principles that guide my approach acro
 
 - **Simplicity scales. Complexity breaks.** I look for elegant, minimal solutions that solve the root problem—not just patch the symptoms.
 - **Architecture is a handoff, not a handcuff.** My goal is to build solutions that are easy to adopt, operate, and evolve, even after I’ve moved on.
-- **Best-of-breed over default stacks.** I don’t chase logos. I align tools with business goals, operational maturity, team readiness, budget, and long term sustainability.
+- **Best-of-breed over default stacks.** I select technologies based on business goals, operational maturity, team readiness, budget, and long-term sustainability rather than defaulting to a preferred vendor or platform.
 - **Repeatable patterns, not one-off heroics** - I favor patterns and frameworks that can be reused and extended, not just clever one-time builds that solve a single use case.
 - **Clarity over cleverness.** Documentation and design artifacts should help others support the system, not decipher it.
 - **Think big-picture. Design with context.** I architect with business objectives, security posture, and future growth in mind, not just the immediate ask.
@@ -24,7 +24,7 @@ Over the years, I’ve developed a set of principles that guide my approach acro
 
 One of the most important lessons I’ve learned is that great architecture is best built *with* people, not *over* them.
 
-I’ve been in roles where I was asked to dictate architecture from the top down. While technically feasible, that approach doesn't scale well and rarely earns lasting buy-in. I believe in collaborative decision-making, shared ownership, and ensuring that the teams who will live with the solution are part of shaping it.
+I’ve worked in environments where architecture was expected to flow primarily from the top down. That approach can produce technically sound designs, but it often limits shared ownership and long-term adoption. I believe in collaborative decision-making, shared ownership, and ensuring that the teams who will live with the solution are part of shaping it.
 
 My favorite engagements are those where I get to bring people along; mentoring, listening, and building consensus as much as building designs.
 

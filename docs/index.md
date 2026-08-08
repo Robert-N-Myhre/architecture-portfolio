@@ -1,7 +1,9 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
 <div style="line-height: 1.3; margin-top: 0;">
-  <h1 style="margin-bottom: 0.2em;">Robert N. Myhre, CCIE #9837 (Active)</h1>
+<div style="font-size: 2em; font-weight: 700; margin-bottom: 0.2em;">
+  Robert N. Myhre, CCIE #9837 (Active)
+</div>
   <p style="margin: 0;"><strong>Principal Architect | AI Infrastructure, Networking & Automation</strong></p>
   <p style="margin: 0;">✉️ ccie9837@gmail.com</p>
   <p style="margin: 0;">🔗 <a href="https://www.linkedin.com/in/robert-n-myhre">LinkedIn</a></p>
@@ -37,7 +39,7 @@ Hands-on projects and case studies used to test architectural assumptions, measu
 - **[MoE Routing Observability](projects/moe-routing-observability.md)**
   Multi-GPU investigation of mixture-of-experts routing, topology, communication behavior, and observability.
 
-- **[Prompt Guardrail / Single-GPU Co-residency](projects/prompt-guardrail-single-gpu.md)**
+- **[Prompt Security Guardrails](projects/prompt-guardrail-single-gpu.md)**
   Experimental evaluation of guardrail and workload co-residency constraints on a single GPU.
 
 ### Enterprise Architecture Decisions
@@ -68,4 +70,11 @@ I use design, implementation, lab validation, measurement, and documented decisi
 
 - [Architecture Practice & Leadership](portfolio/architecture-practice.md)
 - [Architectural Philosophy](architectural-philosophy.md)
+
+---
+
+## About
+
+More about my professional background, current architecture work, research, and how these areas fit together.
+
 - [About Me](about.md)

@@ -55,11 +55,13 @@ The portfolio is intended to show not only **what** I have architected, but **ho
 docs/
 ├── projects/                 # Architecture case studies and research
 ├── reference-architectures/  # Reusable architecture patterns
-├── portfolio/                # Architecture practice and leadership
+├── portfolio/                # Architecture practice + legacy landing pages
 ├── assets/                   # Images, PDFs, and styles
 ├── index.md                  # Portfolio home page
 ├── about.md                  # About / professional background
-└── snapshot.md               # Standalone architecture snapshot
+├── architectural-philosophy.md
+├── snapshot.md               # Direct LinkedIn architecture snapshot
+└── current-focus.md          # Legacy landing page
 ```
 
 The site is built with **MkDocs Material** and deployed automatically through **GitHub Actions**.

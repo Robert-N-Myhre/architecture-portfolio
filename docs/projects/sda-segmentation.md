@@ -5,13 +5,13 @@
 **Status:** Platform evaluation completed; architecture direction reassessed<br>
 **Evaluated Platform:** Cisco Software-Defined Access (SDA)
 
-> This case study intentionally generalizes organization-specific implementation details, internal findings, and current technology decisions. The focus is the architecture evaluation method and the reasoning used to determine fit for the business challenge.
+> This case study intentionally generalizes organization-specific implementation details, internal findings, and current architecture context. Cisco SDA is identified because its evaluation and resulting decision are central to the architecture case study.
 
 ---
 
 ## Overview
 
-The organization needed to extend its security architecture beyond North-South controls and develop a scalable approach to East-West segmentation across a large, operationally diverse environment.
+The organization needed a scalable approach to East-West segmentation as part of a broader enterprise security architecture across a large, operationally diverse environment.
 
 Cisco SDA was selected for deeper validation because it appeared capable of addressing the primary segmentation requirements and was sufficiently aligned with the access environment to justify a serious proof of concept.
 

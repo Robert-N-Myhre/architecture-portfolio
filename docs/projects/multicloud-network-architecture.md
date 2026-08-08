@@ -6,7 +6,7 @@
 **Selected Model:** Network-as-a-Service (NaaS)<br>
 **Selected Platform:** Megaport
 
-> This case study intentionally generalizes organization-specific topology, commercial arrangements, provider details, and current contract decisions. The focus is the architecture model, evaluation criteria, and tradeoffs that shaped the decision.
+> This case study intentionally generalizes organization-specific topology, commercial arrangements, and current contract details. Megaport is identified as the selected platform because that choice is part of the architecture decision; implementation-specific provider and enterprise details are intentionally omitted.
 
 ---
 
