@@ -90,7 +90,7 @@ Signals are captured, filtered, enriched, retrieved, and combined as they move t
 
 Recommendations, policies, outputs, and constraints move back toward users, applications, or execution environments.
 
-<figure style="width: 50%; margin: 1.5rem auto;">
+<figure style="width: 65%; margin: 1.5rem auto;">
   <img
     src="../../assets/projects/intelligence-placement-under-constraint/system-defined-by-flow.png"
     alt="Context flows upstream through the operational layers while decisions flow downstream toward action."
