@@ -31,7 +31,10 @@ This portfolio captures both sides of that work: established enterprise architec
 
 ### AI Infrastructure & Agentic Systems
 
-Hands-on projects and case studies used to test architectural assumptions, measure behavior, and identify where designs succeed or fail.
+Architecture frameworks, hands-on research, and case studies used to test assumptions, measure behavior, and reason about where AI infrastructure designs succeed, fail, or encounter meaningful constraints.
+
+- **[Intelligence Placement Under Constraint](projects/intelligence-placement-under-constraint.md)**
+  A systems-architecture framework for reasoning about where enterprise AI capabilities should execute, how context and decisions flow across layers, and how latency, locality, governance, cost, failure, and trust shape placement.
 
 - **[MCP Platform Case Study](projects/mcp-platform-case-study.md)**
   Built and validated a centralized MCP platform, then rejected the reusable-platform hypothesis when implementation evidence showed the abstraction was not reducing integration cost.

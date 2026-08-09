@@ -29,6 +29,10 @@ I work between strategy and implementation: identifying the assumptions and cons
 
 ## Selected AI Infrastructure & Agentic Systems Work
 
+### [Intelligence Placement Under Constraint](projects/intelligence-placement-under-constraint.md)
+
+A systems-architecture framework for reasoning about where enterprise AI capabilities should execute, how context and decisions flow across layers, and how latency, locality, governance, cost, failure, and trust shape placement.
+
 ### [MCP Platform Case Study](projects/mcp-platform-case-study.md)
 
 Built and validated a centralized MCP platform with constrained identity, execution, workload isolation, and network boundaries. The implementation worked, but evidence showed that the reusable-platform abstraction was not reducing the cost of adding real services, so further platform development was deliberately stopped.
