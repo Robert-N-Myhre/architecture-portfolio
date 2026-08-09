@@ -96,9 +96,9 @@ Recommendations, policies, outputs, and constraints move back toward users, appl
     alt="Context flows upstream through the operational layers while decisions flow downstream toward action."
     style="width: 100%; height: auto;"
   >
-  <figcaption style="text-align: center;">
-    <em>Context flows upstream toward broader awareness, while decisions flow downstream toward action.</em>
-  </figcaption>
+    <figcaption style="font-size: 0.7rem; line-height: 1.35; text-align: center; margin-top: 0.4rem;">
+    Context flows upstream toward broader awareness, while decisions flow downstream toward action.
+    </figcaption>
 </figure>
 
 There can also be lateral flows between models, agents, tools, or systems operating at the same layer.
