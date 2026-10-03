@@ -20,6 +20,25 @@
   </div>
 </section>
 
+<section class="snapshot-evidence" aria-label="Professional experience highlights">
+  <div class="snapshot-evidence-item">
+    <span class="snapshot-evidence-value">30 years</span>
+    <span class="snapshot-evidence-label">Enterprise Technology</span>
+  </div>
+  <div class="snapshot-evidence-item">
+    <span class="snapshot-evidence-value">15+ years</span>
+    <span class="snapshot-evidence-label">Architecture Roles</span>
+  </div>
+  <div class="snapshot-evidence-item">
+    <span class="snapshot-evidence-value">~175 sites</span>
+    <span class="snapshot-evidence-label">Enterprise Patterns at Scale</span>
+  </div>
+  <div class="snapshot-evidence-item">
+    <span class="snapshot-evidence-value">CCIE #9837</span>
+    <span class="snapshot-evidence-label">Active</span>
+  </div>
+</section>
+
 <section class="snapshot-section">
   <div class="snapshot-section-head">
     <h2 id="enterprise-architecture-decisions">Enterprise Architecture Decisions</h2>
