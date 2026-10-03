@@ -30,12 +30,12 @@
     <span class="snapshot-evidence-label">Architecture Roles</span>
   </div>
   <div class="snapshot-evidence-item">
-    <span class="snapshot-evidence-value">~175 sites</span>
-    <span class="snapshot-evidence-label">Enterprise Patterns at Scale</span>
+    <span class="snapshot-evidence-value">Cross-Domain</span>
+    <span class="snapshot-evidence-label">Networking · Infrastructure · Cloud · Security · Automation · AI</span>
   </div>
   <div class="snapshot-evidence-item">
-    <span class="snapshot-evidence-value">CCIE #9837</span>
-    <span class="snapshot-evidence-label">Active</span>
+    <span class="snapshot-evidence-value">Strategy → Implementation</span>
+    <span class="snapshot-evidence-label">Architecture · Standards · Validation · Handoff</span>
   </div>
 </section>
 
