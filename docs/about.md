@@ -11,9 +11,9 @@
       </p>
       <p class="snapshot-tagline">I am most useful where domains intersect—identifying dependencies, surfacing constraints, and turning them into architecture that others can implement and sustain.</p>
       <div class="snapshot-actions">
-        <a href="snapshot.md">Architecture Snapshot</a>
-        <a href="index.md#selected-work">Selected Work</a>
-        <a href="architectural-philosophy.md">Architectural Philosophy</a>
+        <a href="../snapshot/">Architecture Snapshot</a>
+        <a href="../#selected-work">Selected Work</a>
+        <a href="../architectural-philosophy/">Architectural Philosophy</a>
       </div>
     </div>
     <div class="about-photo-wrap">
@@ -81,7 +81,7 @@
       <p>I am exploring MCP, agent identity and authorization, trusted infrastructure data, deterministic execution boundaries, policy enforcement, workload isolation, and controls for autonomous systems interacting with production infrastructure.</p>
     </div>
 
-    <a class="snapshot-card" href="index.md#selected-work">
+    <a class="snapshot-card" href="../#selected-work">
       <p class="eyebrow">Selected Work</p>
       <h3>The common thread is architectural evidence</h3>
       <p>The question is not which product is newest. It is where an architecture works, where it stops working, what evidence supports the conclusion, and what should be carried into the next design.</p>
@@ -98,7 +98,7 @@
     <p>I use design, implementation, lab validation, measurement, and documented decisions to reduce uncertainty. Sometimes the result is a validated architecture. Sometimes the useful outcome is discovering that an abstraction, implementation, or assumption does not justify further investment. Both are valid when the evidence is clear.</p>
     <p>Infrastructure automation and IaC follow the same principle. I use APIs, Python, Ansible, Terraform, and NetDevOps practices to improve repeatability, reduce variance, and make architecture easier to govern and operate at scale.</p>
     <p>I also view architecture as an enablement function. Good architecture should leave behind enough context, standards, evidence, and shared understanding that other engineers can implement, operate, challenge, and improve it without depending on one person to interpret it forever.</p>
-    <p><a href="architectural-philosophy.md">Architectural Philosophy</a> · <a href="portfolio/architecture-practice.md">Architecture Practice & Leadership</a></p>
+    <p><a href="../architectural-philosophy/">Architectural Philosophy</a> · <a href="../portfolio/architecture-practice/">Architecture Practice & Leadership</a></p>
   </div>
 </section>
 
@@ -125,7 +125,7 @@
 </section>
 
 <div class="snapshot-footer">
-  Robert N. Myhre · Principal Infrastructure Architect · <a href="snapshot.md">Architecture Snapshot</a>
+  Robert N. Myhre · Principal Infrastructure Architect · <a href="../snapshot/">Architecture Snapshot</a>
 </div>
 
 </div>
