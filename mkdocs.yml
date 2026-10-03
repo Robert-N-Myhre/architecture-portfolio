@@ -1,7 +1,7 @@
 site_name: "Robert Myhre | Architecture Portfolio"
 site_url: "https://robert-n-myhre.github.io/architecture-portfolio/"
 site_author: "Robert N. Myhre"
-site_description: "Cross-domain architecture portfolio of Robert N. Myhre, Principal Infrastructure Architect, covering enterprise infrastructure, networking, cloud, security, automation, AI infrastructure, reference architectures, and technology strategy."
+site_description: "Cross-domain architecture portfolio of Robert N. Myhre, Principal Infrastructure Architect, with 30 years in enterprise technology spanning networking, cloud, security, automation, AI infrastructure, reference architectures, and technology strategy."
 
 nav:
   - Portfolio: index.md
