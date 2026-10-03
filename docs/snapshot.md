@@ -27,28 +27,28 @@
   </div>
 
   <div class="snapshot-grid">
-    <a class="snapshot-card" href="projects/dc-aci-project.md">
+    <a class="snapshot-card" href="../projects/dc-aci-project/">
       <p class="eyebrow">Architecture Decision</p>
       <h3>Dual Data Center Architecture</h3>
       <p>Choosing the right fabric model by balancing policy consistency, resiliency, migration, and operational complexity.</p>
       <span class="card-link">View case study →</span>
     </a>
 
-    <a class="snapshot-card" href="projects/multicloud-network-architecture.md">
+    <a class="snapshot-card" href="../projects/multicloud-network-architecture/">
       <p class="eyebrow">Architecture Decision</p>
       <h3>Multi-Cloud Network-as-a-Service</h3>
       <p>Replacing repeated circuit procurement with a reusable connectivity model while managing resiliency and provider dependency.</p>
       <span class="card-link">View case study →</span>
     </a>
 
-    <a class="snapshot-card" href="projects/multicloud-terraform.md">
+    <a class="snapshot-card" href="../projects/multicloud-terraform/">
       <p class="eyebrow">Architecture Decision</p>
       <h3>Preserving Patterns Without Forcing Symmetry</h3>
       <p>Extending an AWS operating model into Azure while preserving intent without pretending the two platforms are identical.</p>
       <span class="card-link">View case study →</span>
     </a>
 
-    <a class="snapshot-card" href="projects/sda-segmentation.md">
+    <a class="snapshot-card" href="../projects/sda-segmentation/">
       <p class="eyebrow">Architecture Decision</p>
       <h3>Enterprise Segmentation Evaluation</h3>
       <p>Using explicit acceptance criteria, lab validation, automation, and stakeholder review to let evidence change the recommendation.</p>
@@ -64,28 +64,28 @@
   </div>
 
   <div class="snapshot-grid">
-    <a class="snapshot-card" href="projects/intelligence-placement-under-constraint.md">
+    <a class="snapshot-card" href="../projects/intelligence-placement-under-constraint/">
       <p class="eyebrow">Systems Architecture</p>
       <h3>Intelligence Placement Under Constraint</h3>
       <p>Reasoning about where enterprise AI should execute and how latency, locality, governance, cost, failure, and trust shape placement.</p>
       <span class="card-link">Explore framework →</span>
     </a>
 
-    <a class="snapshot-card" href="projects/mcp-platform-case-study.md">
+    <a class="snapshot-card" href="../projects/mcp-platform-case-study/">
       <p class="eyebrow">Architecture Validation</p>
       <h3>MCP Platform Case Study</h3>
       <p>A working centralized platform that was deliberately stopped when evidence showed the abstraction was not reducing integration cost.</p>
       <span class="card-link">View case study →</span>
     </a>
 
-    <a class="snapshot-card" href="projects/moe-routing-observability.md">
+    <a class="snapshot-card" href="../projects/moe-routing-observability/">
       <p class="eyebrow">Infrastructure Research</p>
       <h3>MoE Routing Observability</h3>
       <p>Multi-GPU investigation of routing behavior, topology, communication, placement, and observability beyond aggregate throughput.</p>
       <span class="card-link">View research →</span>
     </a>
 
-    <a class="snapshot-card" href="projects/prompt-guardrail-single-gpu.md">
+    <a class="snapshot-card" href="../projects/prompt-guardrail-single-gpu/">
       <p class="eyebrow">Governed AI</p>
       <h3>Prompt Security Guardrails</h3>
       <p>Testing workload co-residency and demonstrating why deterministic controls must keep authority outside probabilistic models.</p>
@@ -101,14 +101,14 @@
   </div>
 
   <div class="snapshot-grid">
-    <a class="snapshot-card" href="reference-architectures/monitor-classify-escalate.md">
+    <a class="snapshot-card" href="../reference-architectures/monitor-classify-escalate/">
       <p class="eyebrow">Reference Architecture</p>
       <h3>Monitor → Classify → Escalate</h3>
       <p>AI-assisted event triage with structured outputs, deterministic confidence scoring, enrichment, escalation, and auditability.</p>
       <span class="card-link">View architecture →</span>
     </a>
 
-    <a class="snapshot-card" href="reference-architectures/plan-approve-execute-verify.md">
+    <a class="snapshot-card" href="../reference-architectures/plan-approve-execute-verify/">
       <p class="eyebrow">Reference Architecture</p>
       <h3>Plan → Approve → Execute → Verify</h3>
       <p>Governed infrastructure mutation separating probabilistic planning from deterministic validation, approval, execution, and verification.</p>
@@ -122,7 +122,7 @@
     <h3>Architecture Approach</h3>
     <p>I tend to start with questions rather than products: What problem are we actually solving? Which assumptions are being treated as facts? Where does complexity create operational risk? What should be standardized, and where should flexibility remain?</p>
     <p>I use design, implementation, lab validation, measurement, and documented decisions to reduce uncertainty. The goal is not maximum capability; it is architecture that is understandable, supportable, explicit about its constraints, and able to be handed off without becoming a dependency on the architect.</p>
-    <p><a href="architectural-philosophy.md">Architectural Philosophy</a> · <a href="portfolio/architecture-practice.md">Architecture Practice & Leadership</a></p>
+    <p><a href="../architectural-philosophy/">Architectural Philosophy</a> · <a href="../portfolio/architecture-practice/">Architecture Practice & Leadership</a></p>
 
     <div class="snapshot-domain-row">
       <span class="snapshot-domain">Cross-Domain Enterprise Architecture</span>
