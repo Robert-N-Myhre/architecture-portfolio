@@ -7,11 +7,11 @@
       <h1 class="snapshot-name">Robert N. Myhre</h1>
       <p class="snapshot-role">Principal Infrastructure Architect | Cross-Domain Architecture & Technology Strategy</p>
       <p class="snapshot-lede">
-        I’m a principal-level infrastructure architect with 30 years in enterprise technology and more than 15 years in architecture roles. Networking is my deepest technical foundation, but my work today spans enterprise infrastructure, cloud, security, platform engineering, infrastructure automation, AI infrastructure, and enterprise architecture.
+        I’m a principal-level infrastructure architect with 30 years in enterprise technology and more than 15 years in architecture roles. Networking is my deepest technical foundation, but my work today spans enterprise infrastructure, networking, cloud, security, platform architecture, infrastructure automation, AI infrastructure, and enterprise architecture.
       </p>
       <p class="snapshot-tagline">I am most useful where domains intersect—identifying dependencies, surfacing constraints, and turning them into architecture that others can implement and sustain.</p>
       <div class="snapshot-actions">
-        <a href="../snapshot/">Architecture Snapshot</a>
+        <a href="../">Architecture Portfolio</a>
         <a href="../#selected-work">Selected Work</a>
         <a href="../architectural-philosophy/">Architectural Philosophy</a>
       </div>
@@ -39,7 +39,7 @@
     <div class="snapshot-card about-card">
       <p class="eyebrow">Cross-Domain Focus</p>
       <h3>The important problems often live between domains</h3>
-      <p>Networking, cloud, security, platform engineering, compute, applications, identity, operations, and automation all influence one another. I focus on making those dependencies explicit.</p>
+      <p>Networking, cloud, security, platforms, compute, applications, identity, operations, and automation all influence one another. I focus on making those dependencies explicit.</p>
     </div>
 
     <div class="snapshot-card about-card">
@@ -125,7 +125,7 @@
 </section>
 
 <div class="snapshot-footer">
-  Robert N. Myhre · Principal Infrastructure Architect · <a href="../snapshot/">Architecture Snapshot</a>
+  Robert N. Myhre · Principal Infrastructure Architect · <a href="../">Architecture Portfolio</a>
 </div>
 
 </div>
