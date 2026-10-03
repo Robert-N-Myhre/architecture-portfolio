@@ -31,7 +31,7 @@
   </div>
   <div class="snapshot-evidence-item">
     <span class="snapshot-evidence-value">Cross-Domain</span>
-    <span class="snapshot-evidence-label">Networking · Infrastructure · Cloud · Security · Automation · AI</span>
+    <span class="snapshot-evidence-label">Networking · Cloud · Security · Automation · AI</span>
   </div>
   <div class="snapshot-evidence-item">
     <span class="snapshot-evidence-value">Strategy → Implementation</span>

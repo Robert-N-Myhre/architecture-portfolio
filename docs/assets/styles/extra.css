@@ -768,3 +768,11 @@
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
+
+
+/* Balance snapshot evidence tiles with mixed text lengths. */
+.snapshot-evidence-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
