@@ -299,8 +299,8 @@
 /* About page extensions */
 .about-hero-grid {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 190px;
-  gap: 2rem;
+  grid-template-columns: minmax(0, 1fr) 120px;
+  gap: 1.35rem;
   align-items: center;
 }
 
@@ -311,7 +311,7 @@
 }
 
 .about-photo {
-  width: 150px;
+  width: 96px;
   max-width: 100%;
   aspect-ratio: 1 / 1;
   object-fit: cover;
@@ -373,7 +373,7 @@
   }
 
   .about-photo {
-    width: 100px;
+    width: 76px;
     border-radius: 0.75rem;
   }
 
