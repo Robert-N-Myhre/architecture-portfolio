@@ -4,17 +4,17 @@ nav:
   - Home: index.md
 
   - Selected Work:
-      - AI Infrastructure & Agentic Systems:
-        - Intelligence Placement Under Constraint: projects/intelligence-placement-under-constraint.md
-        - MCP Platform Case Study: projects/mcp-platform-case-study.md
-        - MoE Routing Observability: projects/moe-routing-observability.md
-        - Prompt Security Guardrails: projects/prompt-guardrail-single-gpu.md
-
       - Enterprise Architecture Decisions:
           - Data Center Fabric Model: projects/dc-aci-project.md
           - Multi-Cloud NaaS Model: projects/multicloud-network-architecture.md
           - Multi-Cloud Pattern Alignment: projects/multicloud-terraform.md
           - Enterprise Segmentation Evaluation: projects/sda-segmentation.md
+
+      - Emerging Technology & AI Infrastructure:
+        - Intelligence Placement Under Constraint: projects/intelligence-placement-under-constraint.md
+        - MCP Platform Case Study: projects/mcp-platform-case-study.md
+        - MoE Routing Observability: projects/moe-routing-observability.md
+        - Prompt Security Guardrails: projects/prompt-guardrail-single-gpu.md
 
   - Reference Architectures:
       - Monitor → Classify → Escalate: reference-architectures/monitor-classify-escalate.md
