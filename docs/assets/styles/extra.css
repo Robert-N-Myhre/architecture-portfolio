@@ -299,8 +299,8 @@
 /* About page extensions */
 .about-hero-grid {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 190px;
-  gap: 2rem;
+  grid-template-columns: minmax(0, 1fr) 120px;
+  gap: 1.35rem;
   align-items: center;
 }
 
@@ -311,7 +311,7 @@
 }
 
 .about-photo {
-  width: 150px;
+  width: 96px;
   max-width: 100%;
   aspect-ratio: 1 / 1;
   object-fit: cover;
@@ -373,11 +373,242 @@
   }
 
   .about-photo {
-    width: 100px;
+    width: 76px;
     border-radius: 0.75rem;
   }
 
   .about-photo-wrap p {
     display: none;
+  }
+}
+
+
+/* =========================================================
+   Architecture document pages
+   Shared visual system for projects, reference architectures,
+   philosophy, and practice pages. Intentionally restrained so
+   long-form technical content remains easy to read.
+   ========================================================= */
+
+@media screen {
+  .md-typeset {
+    font-size: 0.82rem;
+    line-height: 1.68;
+  }
+}
+
+/* Direct-child selectors keep these rules off the custom
+   Snapshot and About page components. */
+.md-typeset > h1 {
+  position: relative;
+  margin: 0 0 1.15rem !important;
+  padding: 1.25rem 1.35rem 1.15rem;
+  border: 1px solid rgba(69, 184, 255, 0.24);
+  border-radius: 0.85rem;
+  background:
+    radial-gradient(circle at 88% 15%, rgba(69, 184, 255, 0.16), transparent 26%),
+    linear-gradient(135deg, #071426 0%, #0b2340 58%, #0d3159 100%);
+  box-shadow: 0 12px 34px rgba(0, 28, 52, 0.12);
+  color: #fff !important;
+  font-size: clamp(1.55rem, 3.5vw, 2.2rem) !important;
+  line-height: 1.12 !important;
+  letter-spacing: -0.018em;
+}
+
+.md-typeset > h1::after {
+  content: "";
+  position: absolute;
+  left: 1.35rem;
+  bottom: 0.72rem;
+  width: 3.1rem;
+  height: 3px;
+  border-radius: 3px;
+  background: linear-gradient(90deg, #45b8ff, #8bd7ff);
+}
+
+.md-typeset > h1 + p {
+  margin-top: 0.9rem !important;
+}
+
+/* Many case studies use bold metadata immediately below H1. */
+.md-typeset > h1 + p strong,
+.md-typeset > h1 + p + p strong,
+.md-typeset > h1 + p + p + p strong,
+.md-typeset > h1 + p + p + p + p strong {
+  color: #176f9f;
+}
+
+.md-typeset > h2 {
+  margin-top: 2.15rem !important;
+  margin-bottom: 0.75rem !important;
+  padding-bottom: 0.38rem;
+  border-bottom: 1px solid rgba(30, 117, 167, 0.18);
+  color: #0b3554;
+  font-size: 1.25rem;
+  letter-spacing: -0.01em;
+}
+
+.md-typeset > h3 {
+  margin-top: 1.45rem !important;
+  margin-bottom: 0.45rem !important;
+  color: #155d87;
+  font-size: 1rem;
+}
+
+.md-typeset > hr {
+  margin: 1.8rem 0;
+  border: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(38, 130, 184, 0.28), transparent);
+}
+
+/* Architectural lessons and caveats become deliberate callouts. */
+.md-typeset > blockquote {
+  margin: 1.15rem 0;
+  padding: 0.9rem 1rem;
+  border-left: 4px solid #45b8ff;
+  border-radius: 0 0.65rem 0.65rem 0;
+  background: linear-gradient(90deg, rgba(69, 184, 255, 0.09), rgba(69, 184, 255, 0.025));
+  color: var(--md-default-fg-color);
+}
+
+.md-typeset > blockquote p:first-child {
+  margin-top: 0;
+}
+
+.md-typeset > blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+.md-typeset > blockquote strong {
+  color: #0c5d8d;
+}
+
+/* Lists read more like architecture criteria than default docs lists. */
+.md-typeset > ul,
+.md-typeset > ol {
+  padding-left: 1.25rem;
+}
+
+.md-typeset li::marker {
+  color: #2387c7;
+}
+
+.md-typeset li {
+  margin-bottom: 0.2rem;
+}
+
+/* Tables */
+.md-typeset table:not([class]) {
+  width: 100%;
+  border: 1px solid rgba(26, 101, 145, 0.18);
+  border-radius: 0.65rem;
+  overflow: hidden;
+  box-shadow: 0 5px 18px rgba(0, 35, 65, 0.045);
+}
+
+.md-typeset table:not([class]) th {
+  background: #0b2e4f;
+  color: #f5fbff;
+  font-weight: 700;
+}
+
+.md-typeset table:not([class]) td {
+  border-top-color: rgba(26, 101, 145, 0.12);
+}
+
+.md-typeset table:not([class]) tr:nth-child(even) td {
+  background: rgba(34, 123, 177, 0.035);
+}
+
+/* Code and preformatted content */
+.md-typeset code {
+  border-radius: 0.3rem;
+}
+
+.md-typeset pre > code {
+  line-height: 1.55;
+}
+
+.md-typeset .highlight {
+  margin: 1rem 0;
+  border: 1px solid rgba(27, 100, 143, 0.18);
+  border-radius: 0.65rem;
+  overflow: hidden;
+  box-shadow: 0 5px 18px rgba(0, 35, 65, 0.04);
+}
+
+/* Diagrams and screenshots */
+.md-typeset > p > img,
+.md-typeset > figure img {
+  display: block;
+  margin: 1.2rem auto;
+  border: 1px solid rgba(31, 107, 153, 0.18);
+  border-radius: 0.7rem;
+  background: #fff;
+  box-shadow: 0 10px 28px rgba(0, 35, 65, 0.08);
+}
+
+.md-typeset figure figcaption {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.72rem;
+}
+
+/* Material admonitions */
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 0.65rem;
+  box-shadow: 0 6px 18px rgba(0, 35, 65, 0.05);
+}
+
+/* Make inline links visually consistent without overwhelming prose. */
+.md-typeset a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.13em;
+}
+
+/* PDF/download links in reference architectures often appear as a
+   standalone paragraph near the top. Give them a quiet CTA treatment. */
+.md-typeset > p > a[href$=".pdf"]:only-child {
+  display: inline-flex;
+  align-items: center;
+  margin: 0.25rem 0 0.75rem;
+  padding: 0.5rem 0.78rem;
+  border: 1px solid rgba(35, 135, 199, 0.32);
+  border-radius: 999px;
+  background: rgba(69, 184, 255, 0.07);
+  color: #126f9f;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.md-typeset > p > a[href$=".pdf"]:only-child:hover {
+  border-color: rgba(35, 135, 199, 0.6);
+  background: rgba(69, 184, 255, 0.13);
+}
+
+/* Architecture philosophy/practice pages use the same document shell,
+   but benefit from slightly more editorial breathing room. */
+.md-typeset > h1 ~ p {
+  max-width: 54rem;
+}
+
+@media (max-width: 760px) {
+  .md-typeset > h1 {
+    padding: 1rem 1rem 1.05rem;
+    border-radius: 0.7rem;
+  }
+
+  .md-typeset > h1::after {
+    left: 1rem;
+    bottom: 0.58rem;
+  }
+
+  .md-typeset > h2 {
+    margin-top: 1.7rem !important;
+  }
+
+  .md-typeset table:not([class]) {
+    font-size: 0.72rem;
   }
 }
