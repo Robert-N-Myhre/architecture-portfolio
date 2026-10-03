@@ -5,13 +5,13 @@
   <h1 class="snapshot-name">Robert N. Myhre</h1>
   <p class="snapshot-role">Principal Infrastructure Architect | Cross-Domain Architecture & Technology Strategy</p>
   <p class="snapshot-lede">
-    I work where enterprise infrastructure, cloud, security, platform engineering, automation, and emerging technology intersect—connecting constraints across domains and turning them into architecture that organizations can build, operate, govern, and sustain.
+    I work where enterprise infrastructure, networking, cloud, security, platform architecture, automation, and emerging technology intersect—connecting constraints across domains and turning them into architecture that organizations can build, operate, govern, and sustain.
   </p>
   <p class="snapshot-tagline">Architecting solutions that others can build on.</p>
   <div class="snapshot-actions">
     <a href="#enterprise-architecture-decisions">Explore Selected Work</a>
     <a href="#architecture-approach">How I Architect</a>
-    <a href="https://robert-n-myhre.github.io/architecture-portfolio">Full Portfolio</a>
+    <a href="../about/">About Me</a>
   </div>
   <div class="snapshot-meta">
     <span>CCIE #9837 (Active)</span>
@@ -146,7 +146,7 @@
     <div class="snapshot-domain-row">
       <span class="snapshot-domain">Cross-Domain Enterprise Architecture</span>
       <span class="snapshot-domain">Enterprise Infrastructure & Networking</span>
-      <span class="snapshot-domain">Cloud & Platform Engineering</span>
+      <span class="snapshot-domain">Cloud & Platform Architecture</span>
       <span class="snapshot-domain">Security & Segmentation</span>
       <span class="snapshot-domain">Infrastructure Automation & IaC</span>
       <span class="snapshot-domain">AI Infrastructure & Emerging Technology</span>
@@ -156,7 +156,7 @@
 </section>
 
 <div class="snapshot-footer">
-  Robert N. Myhre · Architecture Snapshot · <a href="https://robert-n-myhre.github.io/architecture-portfolio">Full Architecture Portfolio</a>
+  Robert N. Myhre · Principal Infrastructure Architect · <a href="../">Architecture Portfolio</a>
 </div>
 
 </div>
