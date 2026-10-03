@@ -19,7 +19,7 @@
 
 # Architecture Portfolio
 
-I’m a principal-level infrastructure architect with more than 25 years in enterprise technology and more than 15 years in architecture roles.
+I’m a principal-level infrastructure architect with 30 years in enterprise technology and more than 15 years in architecture roles.
 
 Networking is my deepest technical foundation, but my work spans enterprise infrastructure, cloud, security, platform engineering, infrastructure automation, AI infrastructure, and enterprise architecture. I focus on the dependencies between those domains: where they constrain one another, where architectural decisions propagate across boundaries, and how those interactions should shape technology strategy.
 

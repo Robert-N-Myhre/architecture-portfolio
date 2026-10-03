@@ -7,7 +7,7 @@
       <h1 class="snapshot-name">Robert N. Myhre</h1>
       <p class="snapshot-role">Principal Infrastructure Architect | Cross-Domain Architecture & Technology Strategy</p>
       <p class="snapshot-lede">
-        I’m a principal-level infrastructure architect with more than 25 years in enterprise technology and more than 15 years in architecture roles. Networking is my deepest technical foundation, but my work today spans enterprise infrastructure, cloud, security, platform engineering, infrastructure automation, AI infrastructure, and enterprise architecture.
+        I’m a principal-level infrastructure architect with 30 years in enterprise technology and more than 15 years in architecture roles. Networking is my deepest technical foundation, but my work today spans enterprise infrastructure, cloud, security, platform engineering, infrastructure automation, AI infrastructure, and enterprise architecture.
       </p>
       <p class="snapshot-tagline">I am most useful where domains intersect—identifying dependencies, surfacing constraints, and turning them into architecture that others can implement and sustain.</p>
       <div class="snapshot-actions">
