@@ -612,3 +612,117 @@
     font-size: 0.72rem;
   }
 }
+
+
+/* =========================================================
+   Document density + persistent navigation refinement
+   ========================================================= */
+
+@media screen {
+  /* Bring long-form pages back to a compact technical-document scale. */
+  .md-typeset {
+    font-size: 0.70rem;
+    line-height: 1.58;
+  }
+
+  .md-nav {
+    font-size: 0.65rem;
+  }
+
+  .md-header__title {
+    font-size: 0.70rem;
+  }
+}
+
+.md-typeset > h1 {
+  padding: 0.9rem 1rem 0.9rem;
+  font-size: clamp(1.2rem, 2.5vw, 1.55rem) !important;
+  line-height: 1.16 !important;
+}
+
+.md-typeset > h1::after {
+  left: 1rem;
+  bottom: 0.52rem;
+  width: 2.45rem;
+  height: 2px;
+}
+
+.md-typeset > h2 {
+  margin-top: 1.6rem !important;
+  margin-bottom: 0.55rem !important;
+  padding-bottom: 0.28rem;
+  font-size: 1rem;
+}
+
+.md-typeset > h3 {
+  margin-top: 1.1rem !important;
+  margin-bottom: 0.35rem !important;
+  font-size: 0.84rem;
+}
+
+.md-typeset > hr {
+  margin: 1.3rem 0;
+}
+
+.md-typeset > blockquote {
+  margin: 0.9rem 0;
+  padding: 0.68rem 0.82rem;
+}
+
+.md-typeset table:not([class]) {
+  font-size: 0.66rem;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  font-size: 0.68rem;
+}
+
+/*
+  Material switches the primary navigation to a drawer below 76.25rem.
+  For a portfolio viewed on normal laptop/desktop widths, keep the
+  left-hand navigation visible sooner and temporarily hide the right TOC.
+*/
+@media screen and (min-width: 60em) and (max-width: 76.234375em) {
+  .md-sidebar--primary {
+    display: block !important;
+    position: sticky !important;
+    top: 2.4rem !important;
+    left: auto !important;
+    right: auto !important;
+    width: 11rem !important;
+    height: calc(100vh - 2.4rem) !important;
+    transform: none !important;
+    box-shadow: none !important;
+    background: transparent !important;
+    z-index: 1 !important;
+  }
+
+  .md-sidebar--primary .md-sidebar__scrollwrap {
+    position: relative !important;
+    top: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    left: auto !important;
+    height: calc(100vh - 4.4rem) !important;
+    overflow-y: auto !important;
+  }
+
+  .md-sidebar--secondary {
+    display: none !important;
+  }
+
+  .md-header__button[for="__drawer"] {
+    display: none !important;
+  }
+
+  [dir="ltr"] .md-sidebar--primary:not([hidden]) ~ .md-content > .md-content__inner {
+    margin-left: 0.9rem;
+  }
+}
+
+@media screen and (max-width: 59.984375em) {
+  .md-typeset {
+    font-size: 0.72rem;
+  }
+}
