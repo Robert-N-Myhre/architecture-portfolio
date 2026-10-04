@@ -7,9 +7,9 @@
 
 ## Overview
 
-I investigated whether crossing a CPU socket boundary imposed a measurable performance cost on GPU communication, and whether collective benchmark differences carried through to a distributed training workload.
+This started with a limitation in my home quad-GPU server that bothered me. Two GPUs shared each NUMA node, while communication between NUMA domains crossed the SYS path through the inter-socket boundary. I initially wondered whether that topology could still be useful for multi-tenant workloads. That led to the more interesting question: how much did the extra distance actually matter, and would the workload notice?
 
-The study used a four-V100 PCIe workstation and a rented four-L40S cloud instance. The initial expectation was that crossing the socket boundary would be expensive. Controlled comparisons showed that placement alone did not explain the results: the communication mechanism selected by NCCL mattered more, and its benchmark performance did not reliably predict application throughput.
+The study used a four-V100 PCIe workstation and a rented four-L40S cloud instance. I expected the socket boundary to explain a meaningful performance difference. Controlled comparisons showed otherwise: placement alone did not explain the results. The communication mechanism selected by NCCL mattered more, and its benchmark performance did not reliably predict application throughput.
 
 ## Objective
 
@@ -54,6 +54,8 @@ Application effects were much smaller. The L40S same-NUMA pair's approximately 1
 ## Architectural Finding
 
 Before paying for topology-aware placement or forcing a transport policy, verify the selected mechanism and measure whether the workload benefits.
+
+I came into the investigation expecting topology to explain the performance difference. I left it unwilling to accept a topology diagram or collective benchmark alone as sufficient evidence for a placement recommendation. I would now want to see the transport the workload actually used and whether the measured communication advantage survived at the application level.
 
 The transferable result is the measurement approach: distinguish hardware capability, runtime behavior, and application impact; revise comparisons when observations contradict their assumptions; and retain unresolved causes as open questions.
 
