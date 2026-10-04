@@ -29,6 +29,8 @@ Runs were interleaved across configurations, with medians, observed spreads, hos
 
 Two discoveries on the L40S instance required revising the experiment: the default four-GPU ring used host staging, while default two-GPU jobs used P2P. Planned policy contrasts therefore had to be checked against the selected transport before their performance could be interpreted.
 
+[Explore the visual comparison: Two Platforms, One Boundary →](gpu-communication-boundaries-visual.html)
+
 ## Selected Findings
 
 ### Placement and mechanism required separate controls
