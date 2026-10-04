@@ -15,6 +15,7 @@ nav:
 
       - Emerging Technology & AI Infrastructure:
         - Intelligence Placement Under Constraint: projects/intelligence-placement-under-constraint.md
+        - GPU Communication Boundaries: projects/gpu-communication-boundaries.md
         - MCP Platform Case Study: projects/mcp-platform-case-study.md
         - MoE Routing Observability: projects/moe-routing-observability.md
         - Prompt Security Guardrails: projects/prompt-guardrail-single-gpu.md

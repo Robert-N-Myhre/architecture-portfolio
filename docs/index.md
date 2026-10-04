@@ -90,6 +90,13 @@
       <span class="card-link">Explore framework →</span>
     </a>
 
+    <a class="snapshot-card" href="projects/gpu-communication-boundaries/">
+      <p class="eyebrow">Infrastructure Research</p>
+      <h3>GPU Communication Boundaries</h3>
+      <p>Separating GPU placement from runtime transport selection and testing whether collective performance differences reach a training workload.</p>
+      <span class="card-link">View case study →</span>
+    </a>
+
     <a class="snapshot-card" href="projects/mcp-platform-case-study/">
       <p class="eyebrow">Architecture Validation</p>
       <h3>MCP Platform Case Study</h3>
