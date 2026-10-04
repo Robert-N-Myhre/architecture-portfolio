@@ -93,7 +93,7 @@
     <a class="snapshot-card" href="projects/gpu-communication-boundaries/">
       <p class="eyebrow">Infrastructure Research</p>
       <h3>GPU Communication Boundaries</h3>
-      <p>Separating GPU placement from runtime transport selection and testing whether collective performance differences reach a training workload.</p>
+      <p>Testing whether GPU topology actually justifies placement complexity by separating physical distance, runtime transport selection, and application impact.</p>
       <span class="card-link">View case study →</span>
     </a>
 
