@@ -39,6 +39,19 @@
       font-size: 20px !important;
       margin-bottom: 0.4em;
     }
+
+    .md-content .md-typeset > h1 {
+      color: #172334 !important;
+      background: none !important;
+      border: 0 !important;
+      box-shadow: none !important;
+      padding: 0 !important;
+      font-size: 20px !important;
+    }
+
+    .md-content .md-typeset > h1::after {
+      display: none !important;
+    }
   
     h2 {
       font-size: 16px !important;

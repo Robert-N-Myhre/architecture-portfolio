@@ -83,6 +83,13 @@
   </div>
 
   <div class="snapshot-grid">
+    <a class="snapshot-card" href="projects/project-boundary/">
+      <p class="eyebrow">Architecture Research</p>
+      <h3>Project Boundary — Governing Consequential Automation</h3>
+      <p>Using implementation to test how enterprise AI can consume governed context and influence consequential infrastructure under independent evidence, authority, and recovery controls.</p>
+      <span class="card-link">View case study →</span>
+    </a>
+
     <a class="snapshot-card" href="projects/intelligence-placement-under-constraint/">
       <p class="eyebrow">Systems Architecture</p>
       <h3>Intelligence Placement Under Constraint</h3>
@@ -167,3 +174,4 @@
 </div>
 
 </div>
+

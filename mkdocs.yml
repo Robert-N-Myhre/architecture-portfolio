@@ -14,6 +14,7 @@ nav:
           - Enterprise Segmentation Evaluation: projects/sda-segmentation.md
 
       - Emerging Technology & AI Infrastructure:
+        - Project Boundary — Governing Consequential Automation: projects/project-boundary.md
         - Intelligence Placement Under Constraint: projects/intelligence-placement-under-constraint.md
         - GPU Communication Boundaries: projects/gpu-communication-boundaries.md
         - MCP Platform Case Study: projects/mcp-platform-case-study.md
@@ -50,3 +51,4 @@ markdown_extensions:
 # Plugins (optional)
 plugins:
   - search
+

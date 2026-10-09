@@ -6,18 +6,20 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="{{ config.site_name }}">
   <meta property="og:title" content="{% if page and page.title %}{{ page.title }} | {{ config.site_name }}{% else %}{{ config.site_name }}{% endif %}">
-  <meta property="og:description" content="{{ config.site_description }}">
+  {% set page_description = page.meta.description if page and page.meta and page.meta.description else config.site_description %}
+  <meta property="og:description" content="{{ page_description | e }}">
   {% if page and page.canonical_url %}
   <meta property="og:url" content="{{ page.canonical_url }}">
   {% endif %}
-  <meta property="og:image" content="{{ config.site_url }}assets/images/portfolio-social-card.png">
+  <meta property="og:image" content="{{ config.site_url }}assets/images/portfolio-socal-card.png">
   <meta property="og:image:type" content="image/png">
-  <meta property="og:image:width" content="1200">
-  <meta property="og:image:height" content="630">
+  <meta property="og:image:width" content="1731">
+  <meta property="og:image:height" content="909">
   <meta property="og:image:alt" content="Robert N. Myhre — Principal Infrastructure Architect | Cross-Domain Architecture & Technology Strategy">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{% if page and page.title %}{{ page.title }} | {{ config.site_name }}{% else %}{{ config.site_name }}{% endif %}">
-  <meta name="twitter:description" content="{{ config.site_description }}">
-  <meta name="twitter:image" content="{{ config.site_url }}assets/images/portfolio-social-card.png">
+  <meta name="twitter:description" content="{{ page_description | e }}">
+  <meta name="twitter:image" content="{{ config.site_url }}assets/images/portfolio-socal-card.png">
   <meta name="twitter:image:alt" content="Robert N. Myhre — Principal Infrastructure Architect | Cross-Domain Architecture & Technology Strategy">
 {% endblock %}
+
