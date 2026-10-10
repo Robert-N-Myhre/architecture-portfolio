@@ -365,7 +365,7 @@ So I built the execution contract around the semantics I had measured.
 </table>
 </div>
 
-> **Inspect the evidence:** [Project Boundary Evidence](https://github.com/Robert-N-Myhre/project-boundary-evidence) publishes selected architecture decisions, original executable validation, run artifacts, negative evidence, and the recorded project stop-state behind the claims above.
+> **Related artifacts:** [Inspect the evidence](https://github.com/Robert-N-Myhre/project-boundary-evidence) supporting the claims above, or [read the distilled Project Sentinel Reference Architecture](../reference-architectures/governed-agentic-infrastructure-operations.md) that captures the reusable architecture resulting from the investigation.
 
 A successful run proves that a path occurred. A mutation test can show that removing a guard changes the result. A canary can show that a screening path reacts to a known specimen. None of those establishes production reliability, operational rates, model accuracy, or production safety.
 
