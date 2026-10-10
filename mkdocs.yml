@@ -22,6 +22,7 @@ nav:
         - Prompt Security Guardrails: projects/prompt-guardrail-single-gpu.md
 
   - Reference Architectures:
+      - Governed Agentic Infrastructure Operations: reference-architectures/governed-agentic-infrastructure-operations.md
       - Monitor → Classify → Escalate: reference-architectures/monitor-classify-escalate.md
       - Plan → Approve → Execute → Verify: reference-architectures/plan-approve-execute-verify.md
 
@@ -45,8 +46,16 @@ extra_css:
   - assets/styles/print.css
   - assets/styles/extra.css
 
+extra_javascript:
+  - https://unpkg.com/mermaid@10.9.1/dist/mermaid.min.js
+
 markdown_extensions:
   - admonition
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 
 # Plugins (optional)
 plugins:
