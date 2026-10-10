@@ -7,7 +7,7 @@ description: "Architecture case study on using implementation to test how enterp
 
 **Context:** Independent architecture research  
 **Status:** Research prototype complete for its intended investigation; production concerns remain open  
-**Domain:** Agentic infrastructure automation and governance
+**Architecture domains:** Agentic AI · Infrastructure Automation · Security & Context Integrity · Authority & Authorization · Evidence & Provenance · Recovery & Operational Safety · Policy & Governance
 
 <p class="boundary-lede"><strong>I used implementation to test and evolve a Reference Architecture for a consequential form of enterprise AI: systems whose reasoning may influence production infrastructure.</strong></p>
 
