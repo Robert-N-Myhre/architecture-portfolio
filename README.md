@@ -6,7 +6,7 @@ This repository publishes my independent technology investigations at:
 
 I explore questions about AI infrastructure, distributed systems, networking, security, automation, and emerging technologies through prototypes, experiments, and architectural analysis.
 
-The work is independently initiated. It is not a collection of projects delivered for employers or clients, nor a technical résumé. An investigation belongs here because the question interested me, whether or not it led to a working system.
+Each investigation starts with a question that interested me, whether or not it led to a working system. My interests and conclusions can change as the evidence develops.
 
 ## Research and evidence
 
@@ -23,4 +23,3 @@ The site uses MkDocs Material with GitHub Pages deployment. Content is under `do
 
 See [Research Methodology](https://robert-n-myhre.github.io/architecture-portfolio/research-methodology/) for the editorial and evidence approach.
 
-Professional work and career history belong on [LinkedIn](https://www.linkedin.com/in/robert-n-myhre), not in this research archive.
