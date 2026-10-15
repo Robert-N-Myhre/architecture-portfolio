@@ -11,9 +11,9 @@ tags:
 ---
 
 
-**Research status:** Conceptual investigation — proposed, unproven reference architecture. The implementation stack and operational patterns below are design proposals, not evidence of an implemented or production-validated system.
-
 # Monitor → Classify → Escalate
+
+**Research status:** Conceptual investigation — proposed, unproven reference architecture. The implementation stack and operational patterns below are design proposals, not evidence of an implemented or production-validated system.
 
 **Continuous Event Stream Triage with AI-Assisted Classification and Human Escalation**
 
