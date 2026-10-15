@@ -1,6 +1,6 @@
 # Research Methodology
 
-This is a personal, independent research archive, not a claim that every idea has been proven or a repository of commercial deliverables.
+This is my record of independent investigations. Some ideas have been tested extensively; others are early architectural explorations with open questions.
 
 ## The starting point is a question
 
@@ -29,7 +29,7 @@ Prototype results do not establish production suitability. A reference architect
 
 ## Publication boundaries
 
-The work here is independently initiated. Employer- and client-directed architectures, organizational accomplishments, and confidential operational material are outside the scope of this site. Professional background may provide context, but is not the purpose of the archive.
+Investigations published here begin with questions I choose to explore. Research notes focus on the question, method, evidence, limitations, and what I learned.
 
 ## No required outcome
 
