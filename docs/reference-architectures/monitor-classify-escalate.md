@@ -10,6 +10,9 @@ tags:
   - AI governance
 ---
 
+
+**Research status:** Conceptual investigation — proposed, unproven reference architecture. The implementation stack and operational patterns below are design proposals, not evidence of an implemented or production-validated system.
+
 # Monitor → Classify → Escalate
 
 **Continuous Event Stream Triage with AI-Assisted Classification and Human Escalation**

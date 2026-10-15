@@ -11,6 +11,9 @@ tags:
   - AI governance
 ---
 
+
+**Research status:** Conceptual investigation — proposed, unproven reference architecture. The design has not been validated as an end-to-end production system. For prototype-informed research into related authority boundaries, see [Project Boundary](../projects/project-boundary.md) and its [research-derived architecture](governed-agentic-infrastructure-operations.md).
+
 # Plan → Approve → Execute → Verify
 
 **AI-Assisted Infrastructure Change Automation with Human Approval Gates**
