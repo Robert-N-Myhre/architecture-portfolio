@@ -1,38 +1,27 @@
-site_name: "Robert Myhre | Architecture Portfolio"
+site_name: "Robert N. Myhre | Independent Technology Research"
 site_url: "https://robert-n-myhre.github.io/architecture-portfolio/"
 site_author: "Robert N. Myhre"
-site_description: "Cross-domain architecture portfolio of Robert N. Myhre, Principal Infrastructure Architect, with 30 years in enterprise technology spanning networking, cloud, security, automation, AI infrastructure, reference architectures, and technology strategy."
+site_description: "Independent investigations into AI infrastructure, distributed systems, networking, security, automation, and emerging technology."
 
 nav:
-  - Portfolio: index.md
-
-  - Selected Work:
-      - Enterprise Architecture Decisions:
-          - Data Center Fabric Model: projects/dc-aci-project.md
-          - Multi-Cloud NaaS Model: projects/multicloud-network-architecture.md
-          - Multi-Cloud Pattern Alignment: projects/multicloud-terraform.md
-          - Enterprise Segmentation Evaluation: projects/sda-segmentation.md
-
-      - Emerging Technology & AI Infrastructure:
-        - Project Boundary — Governing Consequential Automation: projects/project-boundary.md
-        - Intelligence Placement Under Constraint: projects/intelligence-placement-under-constraint.md
-        - GPU Communication Boundaries: projects/gpu-communication-boundaries.md
-        - MCP Platform Case Study: projects/mcp-platform-case-study.md
-        - MoE Routing Observability: projects/moe-routing-observability.md
-        - Prompt Security Guardrails: projects/prompt-guardrail-single-gpu.md
-
-  - Reference Architectures:
+  - Home: index.md
+  - Investigations:
+      - Experimental & Prototype Research:
+          - Project Boundary: projects/project-boundary.md
+          - GPU Communication Boundaries: projects/gpu-communication-boundaries.md
+          - MoE Routing Observability: projects/moe-routing-observability.md
+          - MCP Platform Case Study: projects/mcp-platform-case-study.md
+          - Prompt Security Guardrails: projects/prompt-guardrail-single-gpu.md
+      - Architectural Research:
+          - Intelligence Placement Under Constraint: projects/intelligence-placement-under-constraint.md
+      - Conceptual Investigations:
+          - Monitor → Classify → Escalate: reference-architectures/monitor-classify-escalate.md
+          - Plan → Approve → Execute → Verify: reference-architectures/plan-approve-execute-verify.md
+  - Research-Derived Architectures:
       - Governed Agentic Infrastructure Operations: reference-architectures/governed-agentic-infrastructure-operations.md
-      - Monitor → Classify → Escalate: reference-architectures/monitor-classify-escalate.md
-      - Plan → Approve → Execute → Verify: reference-architectures/plan-approve-execute-verify.md
-
-  - Architecture Practice:
-      - Architecture Practice & Leadership: portfolio/architecture-practice.md
-      - Architectural Philosophy: architectural-philosophy.md
-
+  - Research Methodology: research-methodology.md
   - About: about.md
 
-# Theme settings
 theme:
   name: material
   custom_dir: overrides
@@ -57,7 +46,5 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
 
-# Plugins (optional)
 plugins:
   - search
-

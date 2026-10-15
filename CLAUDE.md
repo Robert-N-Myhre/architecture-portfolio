@@ -1,47 +1,33 @@
-# CLAUDE.md
+# Repository guidance — Independent Technology Research
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This is the source of a public **independent technology research** site built with MkDocs Material and published at https://robert-n-myhre.github.io/architecture-portfolio/.
 
-## What this repo is
+## Purpose and boundaries
 
-A static IT architecture portfolio site built with [MkDocs](https://www.mkdocs.org/) + the Material theme. There is no application code — content is Markdown under `docs/`, navigation and theme are configured in `mkdocs.yml`, and the published site lives at https://robert-n-myhre.github.io/architecture-portfolio/.
+Publish explorations initiated by personal curiosity about technologies, systems, and architectural questions. Keep the public presentation focused on the research question, investigation, evidence, and limitations. Avoid résumé-style achievements, promotional language, and organizational delivery narratives.
 
-## How content is structured
+Before including new material, verify that it originated in an independently initiated investigation rather than an employer- or client-directed engagement. Do not fictionalize provenance. Enterprise technology can be an independent research subject.
 
-- `mkdocs.yml` is the source of truth for site navigation, theme, and extra CSS. Adding a new page means creating the `.md` file under `docs/` **and** wiring it into the `nav:` tree in `mkdocs.yml` — pages not listed in `nav` won't appear in the sidebar.
-- `docs/projects/` holds the individual project spotlight pages.
-- `docs/assets/styles/print.css` and `extra.css` are pulled in via the `extra_css:` block in `mkdocs.yml`. `print.css` exists specifically because the portfolio is also intended to be printed/exported — keep print styles in mind when changing layout.
-- `docs/assets/images/` holds the images referenced by the Markdown pages.
-- `site/` is the build output. It is gitignored (some legacy files remain tracked) — do not hand-edit it; it is regenerated on every deploy.
+A project may be experimental, prototype-driven, architectural, or purely conceptual. Implementation is **not** a publication requirement. Preserve research questions, evolving assumptions, negative results, abandoned avenues, and genuine uncertainties. Distinguish clearly between design intent, hypothesis, observed data, prototype validation, and production validation. Never describe a proposed control as proven or a prototype as a deployment.
 
-## Common commands
+Write for technically curious readers who have no previous project context. Prefer clear questions, evidence, limitations, and what changed over claims of impact or seniority. Avoid forcing varied research into a rigid template.
 
-Local preview with live reload (default http://127.0.0.1:8000):
+## Navigation and content
+
+- `mkdocs.yml` owns site navigation; pages need appropriate nav entries to appear.
+- `docs/projects/` holds investigations.
+- `docs/reference-architectures/` holds research-derived and conceptual architecture artifacts; label their maturity.
+- `docs/research-methodology.md` describes evidence and publication principles.
+- `docs/assets/` contains visual assets and CSS; preserve assets used by active pages.
+- `overrides/` contains Material theme overrides.
+
+Maintain existing public investigation URLs unless there is a compelling reason to change them. Do not change deployed content silently if status, evidence, or scope changes.
+
+## Preview and build
 
 ```bash
 mkdocs serve
+mkdocs build --strict
 ```
 
-Build the static site into `site/` (rarely needed locally — CI does this):
-
-```bash
-mkdocs build
-```
-
-Manual deploy to GitHub Pages (deprecated path — CI normally handles this; see below):
-
-```bash
-mkdocs gh-deploy
-```
-
-The `origin` remote is configured for SSH, so `gh-deploy` uses the local SSH key rather than prompting for credentials.
-
-## Deployment
-
-`.github/workflows/gh-pages.yml` deploys on every push to `main`:
-
-1. Checks out the repo
-2. Installs `mkdocs` and `mkdocs-material` on Python 3.11
-3. Runs `mkdocs gh-deploy --force`, which builds `site/` and pushes it to the `gh-pages` branch
-
-There is no test suite, lint step, or PR check — pushing to `main` is the deploy trigger. After a push, watch the Actions tab for status; the live site usually updates within ~1 minute of a green run.
+The `.github/workflows/gh-pages.yml` workflow deploys on pushes to `main`. Prefer a reviewable PR for broad content changes. Verify internal links and images after restructuring.

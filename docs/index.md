@@ -1,177 +1,88 @@
 <div class="snapshot-shell">
 
 <section class="snapshot-hero">
-  <p class="snapshot-kicker">Architecture Portfolio</p>
+  <p class="snapshot-kicker">Independent Technology Research</p>
   <h1 class="snapshot-name">Robert N. Myhre</h1>
-  <p class="snapshot-role">Principal Infrastructure Architect | Cross-Domain Architecture & Technology Strategy</p>
-  <p class="snapshot-lede">
-    I work where enterprise infrastructure, networking, cloud, security, platform architecture, automation, and emerging technology intersect—connecting constraints across domains and turning them into architecture that organizations can build, operate, govern, and sustain.
-  </p>
-  <p class="snapshot-tagline">Architecting solutions that others can build on.</p>
+  <p class="snapshot-role">Questions · Experiments · Architecture · Evidence</p>
+  <p class="snapshot-lede">I explore technologies because I want to understand how they behave, interact, and fail. My investigations span AI infrastructure, distributed systems, networking, security, automation, and emerging ideas.</p>
+  <p class="snapshot-tagline">Question it. Architect it. Build it. Test it. Explain it.</p>
   <div class="snapshot-actions">
-    <a href="#enterprise-architecture-decisions">Explore Selected Work</a>
-    <a href="#architecture-approach">How I Architect</a>
-    <a href="about/">About Me</a>
-  </div>
-  <div class="snapshot-meta">
-    <span>CCIE #9837 (Active)</span>
-    <span><a href="mailto:ccie9837@gmail.com">ccie9837@gmail.com</a></span>
-    <span><a href="https://www.linkedin.com/in/robert-n-myhre">LinkedIn</a> · <a href="https://github.com/Robert-N-Myhre">GitHub</a></span>
+    <a href="#investigations">Explore investigations</a>
+    <a href="research-methodology/">How I investigate</a>
+    <a href="about/">About</a>
   </div>
 </section>
 
-<section class="snapshot-evidence" aria-label="Professional experience highlights">
-  <div class="snapshot-evidence-item">
-    <span class="snapshot-evidence-value">30 years</span>
-    <span class="snapshot-evidence-label">Enterprise Technology</span>
-  </div>
-  <div class="snapshot-evidence-item">
-    <span class="snapshot-evidence-value">15+ years</span>
-    <span class="snapshot-evidence-label">Architecture Roles</span>
-  </div>
-  <div class="snapshot-evidence-item">
-    <span class="snapshot-evidence-value">Cross-Domain</span>
-    <span class="snapshot-evidence-label">Networking · Cloud · Security · Automation · AI</span>
-  </div>
-  <div class="snapshot-evidence-item">
-    <span class="snapshot-evidence-value">Strategy → Implementation</span>
-    <span class="snapshot-evidence-label">Architecture · Standards · Validation · Handoff</span>
-  </div>
-</section>
-
-<section class="snapshot-section">
+<section class="snapshot-section" id="investigations">
   <div class="snapshot-section-head">
-    <h2 id="enterprise-architecture-decisions">Enterprise Architecture Decisions</h2>
-    <p>Selected case studies centered on architectural tradeoffs, evidence, constraints, and decisions made under real enterprise conditions.</p>
+    <h2>Investigations</h2>
+    <p>Independently initiated questions explored through experiments, prototypes, and architectural reasoning. The useful result is sometimes a validated finding, sometimes a revised assumption, and sometimes a reason to stop.</p>
   </div>
-
-  <div class="snapshot-grid">
-    <a class="snapshot-card" href="projects/dc-aci-project/">
-      <p class="eyebrow">Architecture Decision</p>
-      <h3>Dual Data Center Architecture</h3>
-      <p>Choosing the right fabric model by balancing policy consistency, resiliency, migration, and operational complexity.</p>
-      <span class="card-link">View case study →</span>
-    </a>
-
-    <a class="snapshot-card" href="projects/multicloud-network-architecture/">
-      <p class="eyebrow">Architecture Decision</p>
-      <h3>Multi-Cloud Network-as-a-Service</h3>
-      <p>Replacing repeated circuit procurement with a reusable connectivity model while managing resiliency and provider dependency.</p>
-      <span class="card-link">View case study →</span>
-    </a>
-
-    <a class="snapshot-card" href="projects/multicloud-terraform/">
-      <p class="eyebrow">Architecture Decision</p>
-      <h3>Preserving Patterns Without Forcing Symmetry</h3>
-      <p>Extending an AWS operating model into Azure while preserving intent without pretending the two platforms are identical.</p>
-      <span class="card-link">View case study →</span>
-    </a>
-
-    <a class="snapshot-card" href="projects/sda-segmentation/">
-      <p class="eyebrow">Architecture Decision</p>
-      <h3>Enterprise Segmentation Evaluation</h3>
-      <p>Using explicit acceptance criteria, lab validation, automation, and stakeholder review to let evidence change the recommendation.</p>
-      <span class="card-link">View case study →</span>
-    </a>
-  </div>
-</section>
-
-<section class="snapshot-section">
-  <div class="snapshot-section-head">
-    <h2>Emerging Technology & AI Infrastructure</h2>
-    <p>Hands-on architecture research used to test assumptions, expose constraints, and determine where emerging designs are supportable.</p>
-  </div>
-
   <div class="snapshot-grid">
     <a class="snapshot-card" href="projects/project-boundary/">
-      <p class="eyebrow">Architecture Research</p>
-      <h3>Project Boundary — Governing Consequential Automation</h3>
-      <p>Using implementation to test how enterprise AI can consume governed context and influence consequential infrastructure under independent evidence, authority, and recovery controls.</p>
-      <span class="card-link">View case study →</span>
+      <p class="eyebrow">Prototype-driven research</p><h3>Project Boundary</h3>
+      <p>What may AI safely consume, and what may its reasoning influence, when infrastructure changes have consequences?</p><span class="card-link">Explore the investigation →</span>
     </a>
-
-    <a class="snapshot-card" href="projects/intelligence-placement-under-constraint/">
-      <p class="eyebrow">Systems Architecture</p>
-      <h3>Intelligence Placement Under Constraint</h3>
-      <p>Reasoning about where enterprise AI should execute and how latency, locality, governance, cost, failure, and trust shape placement.</p>
-      <span class="card-link">Explore framework →</span>
-    </a>
-
     <a class="snapshot-card" href="projects/gpu-communication-boundaries/">
-      <p class="eyebrow">Infrastructure Research</p>
-      <h3>GPU Communication Boundaries</h3>
-      <p>Testing whether GPU topology actually justifies placement complexity by separating physical distance, runtime transport selection, and application impact.</p>
-      <span class="card-link">View case study →</span>
+      <p class="eyebrow">Experimental research</p><h3>GPU Communication Boundaries</h3>
+      <p>Does physical GPU topology explain communication costs and workload performance, or does runtime transport matter more?</p><span class="card-link">Explore the investigation →</span>
     </a>
-
-    <a class="snapshot-card" href="projects/mcp-platform-case-study/">
-      <p class="eyebrow">Architecture Validation</p>
-      <h3>MCP Platform Case Study</h3>
-      <p>A working centralized platform that was deliberately stopped when evidence showed the abstraction was not reducing integration cost.</p>
-      <span class="card-link">View case study →</span>
-    </a>
-
     <a class="snapshot-card" href="projects/moe-routing-observability/">
-      <p class="eyebrow">Infrastructure Research</p>
-      <h3>MoE Routing Observability</h3>
-      <p>Multi-GPU investigation of routing behavior, topology, communication, placement, and observability beyond aggregate throughput.</p>
-      <span class="card-link">View research →</span>
+      <p class="eyebrow">Experimental research</p><h3>MoE Routing Observability</h3>
+      <p>What does sparse-model inference demand from multi-GPU infrastructure, and what does aggregate throughput hide?</p><span class="card-link">Explore the investigation →</span>
     </a>
-
+    <a class="snapshot-card" href="projects/mcp-platform-case-study/">
+      <p class="eyebrow">Prototype-driven research</p><h3>MCP Platform Case Study</h3>
+      <p>Can a shared MCP service boundary make real integrations easier and safer, or does it merely centralize their complexity?</p><span class="card-link">Explore the investigation →</span>
+    </a>
     <a class="snapshot-card" href="projects/prompt-guardrail-single-gpu/">
-      <p class="eyebrow">Governed AI</p>
-      <h3>Prompt Security Guardrails</h3>
-      <p>Testing workload co-residency and demonstrating why deterministic controls must keep authority outside probabilistic models.</p>
-      <span class="card-link">View research →</span>
+      <p class="eyebrow">Experimental research</p><h3>Prompt Security Guardrails</h3>
+      <p>Can a constrained GPU support separate guard and reasoning models, and which controls must remain deterministic?</p><span class="card-link">Explore the investigation →</span>
+    </a>
+    <a class="snapshot-card" href="projects/intelligence-placement-under-constraint/">
+      <p class="eyebrow">Architectural research</p><h3>Intelligence Placement Under Constraint</h3>
+      <p>Where should intelligence execute when latency, locality, cost, trust, resilience, and governance pull in different directions?</p><span class="card-link">Explore the framework →</span>
     </a>
   </div>
 </section>
 
 <section class="snapshot-section">
   <div class="snapshot-section-head">
-    <h2>Reference Architectures</h2>
-    <p>Vendor-neutral patterns for governed automation, explicit authority boundaries, deterministic controls, and auditability.</p>
+    <h2>Conceptual Investigations</h2>
+    <p>Architectures I developed to explore possibilities. These are proposed designs, not demonstrated production systems; I may return to test them, or leave their open questions visible.</p>
   </div>
-
   <div class="snapshot-grid">
     <a class="snapshot-card" href="reference-architectures/monitor-classify-escalate/">
-      <p class="eyebrow">Reference Architecture</p>
-      <h3>Monitor → Classify → Escalate</h3>
-      <p>AI-assisted event triage with structured outputs, deterministic confidence scoring, enrichment, escalation, and auditability.</p>
-      <span class="card-link">View architecture →</span>
+      <p class="eyebrow">Unproven reference architecture</p><h3>Monitor → Classify → Escalate</h3>
+      <p>What would accountable AI-assisted event classification and enrichment require?</p><span class="card-link">Explore the concept →</span>
     </a>
-
     <a class="snapshot-card" href="reference-architectures/plan-approve-execute-verify/">
-      <p class="eyebrow">Reference Architecture</p>
-      <h3>Plan → Approve → Execute → Verify</h3>
-      <p>Governed infrastructure mutation separating probabilistic planning from deterministic validation, approval, execution, and verification.</p>
-      <span class="card-link">View architecture →</span>
+      <p class="eyebrow">Unproven reference architecture</p><h3>Plan → Approve → Execute → Verify</h3>
+      <p>Where should AI planning stop and explicit human and deterministic change controls begin?</p><span class="card-link">Explore the concept →</span>
     </a>
   </div>
 </section>
 
-<section class="snapshot-section" id="architecture-approach">
-  <div class="snapshot-wide-card">
-    <h3>Architecture Approach</h3>
-    <p>I tend to start with questions rather than products: What problem are we actually solving? Which assumptions are being treated as facts? Where does complexity create operational risk? What should be standardized, and where should flexibility remain?</p>
-    <p>I use design, implementation, lab validation, measurement, and documented decisions to reduce uncertainty. The goal is not maximum capability; it is architecture that is understandable, supportable, explicit about its constraints, and able to be handed off without becoming a dependency on the architect.</p>
-    <p><a href="architectural-philosophy/">Architectural Philosophy</a> · <a href="portfolio/architecture-practice/">Architecture Practice & Leadership</a></p>
-
-    <div class="snapshot-domain-row">
-      <span class="snapshot-domain">Cross-Domain Enterprise Architecture</span>
-      <span class="snapshot-domain">Enterprise Infrastructure & Networking</span>
-      <span class="snapshot-domain">Cloud & Platform Architecture</span>
-      <span class="snapshot-domain">Security & Segmentation</span>
-      <span class="snapshot-domain">Infrastructure Automation & IaC</span>
-      <span class="snapshot-domain">AI Infrastructure & Emerging Technology</span>
-      <span class="snapshot-domain">Architecture Governance & Enablement</span>
-    </div>
+<section class="snapshot-section">
+  <div class="snapshot-section-head">
+    <h2>Research-Derived Architecture</h2>
+    <p>An architecture distilled from independent investigation, with prototype evidence and production limitations explicitly separated.</p>
+  </div>
+  <div class="snapshot-grid">
+    <a class="snapshot-card" href="reference-architectures/governed-agentic-infrastructure-operations/">
+      <p class="eyebrow">Proposed · Prototype-informed</p><h3>Governed Agentic Infrastructure Operations</h3>
+      <p>A proposed architecture developed through Project Boundary, separating probabilistic reasoning from deterministic control and human-governed authority.</p><span class="card-link">Explore the architecture →</span>
+    </a>
   </div>
 </section>
 
-<div class="snapshot-footer">
-  Robert N. Myhre · Principal Infrastructure Architect · <a href="about/">About</a>
-</div>
+<section class="snapshot-section">
+  <div class="snapshot-wide-card">
+    <h3>Research without a predetermined finish line</h3>
+    <p>Some investigations are built and measured. Others remain conceptual. Some hypotheses fail. I keep the distinction between what I expected, what I observed, and what I still cannot establish.</p>
+    <p><a href="research-methodology/">Research methodology</a> · <a href="about/">About this work</a></p>
+  </div>
+</section>
 
+<div class="snapshot-footer">Robert N. Myhre · Independent Technology Research · <a href="https://github.com/Robert-N-Myhre">GitHub</a></div>
 </div>
-
