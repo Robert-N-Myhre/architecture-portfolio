@@ -4,9 +4,9 @@ This is the source of a public **independent technology research** site built wi
 
 ## Purpose and boundaries
 
-This is not a technical résumé, job-search brochure, or employer project showcase. It publishes explorations initiated by personal curiosity about technologies, systems, and architectural questions. Exclude employer- or client-directed work, professional achievement bullet lists, organizational outcomes, and promotional career framing.
+Publish explorations initiated by personal curiosity about technologies, systems, and architectural questions. Keep the public presentation focused on the research question, investigation, evidence, and limitations. Avoid résumé-style achievements, promotional language, and organizational delivery narratives.
 
-Do not invent an independent origin for projects undertaken for others. Review provenance before including new material. Independently explored enterprise use cases are allowed; organizational delivery is not the inclusion criterion.
+Before including new material, verify that it originated in an independently initiated investigation rather than an employer- or client-directed engagement. Do not fictionalize provenance. Enterprise technology can be an independent research subject.
 
 A project may be experimental, prototype-driven, architectural, or purely conceptual. Implementation is **not** a publication requirement. Preserve research questions, evolving assumptions, negative results, abandoned avenues, and genuine uncertainties. Distinguish clearly between design intent, hypothesis, observed data, prototype validation, and production validation. Never describe a proposed control as proven or a prototype as a deployment.
 
