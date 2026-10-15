@@ -4,7 +4,7 @@ I'm Robert N. Myhre, an independent technology researcher with a background in e
 
 I investigate questions about systems: what they actually do, how components interact, where constraints emerge, and what happens when assumptions meet implementation. My interests range across GPU systems and distributed AI, networking, security, automation, and governed agentic systems.
 
-My technical background informs which questions I notice, but this site is **not a catalogue of work delivered for employers or clients**. The investigations here are ones I chose to pursue.
+My technical background informs which questions I notice. The investigations here are ones I chose to pursue.
 
 ## Why I investigate
 
@@ -26,6 +26,6 @@ A completed implementation is not the definition of success. Discovering that an
 
 My professional foundation is in networking and infrastructure architecture, supported by hands-on engineering, technical writing, and teaching. That experience supplies context for the research but is not its subject.
 
-For professional history, see [LinkedIn](https://www.linkedin.com/in/robert-n-myhre). For code and underlying research repositories, see [GitHub](https://github.com/Robert-N-Myhre).
+For code and underlying research repositories, see [GitHub](https://github.com/Robert-N-Myhre).
 
 [Explore investigations](index.md#investigations) · [Research methodology](research-methodology.md)
