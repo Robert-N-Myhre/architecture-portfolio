@@ -3,7 +3,7 @@
 **Context:** Independent architecture research<br>
 **Status:** Completed; platform development deliberately closed<br>
 **Domain:** MCP infrastructure, identity, security boundaries, workload isolation, platform architecture<br>
-**Repository:** [View the public case study on GitHub](https://github.com/Robert-N-Myhre/mcp-platform-case-study)
+**Repository:** [View the public case study on GitHub](https://github.com/Robert-N-Myhre/mcp-platform-case-study){ target="_blank" rel="noopener noreferrer" }
 
 ## Overview
 
@@ -84,4 +84,4 @@ The useful result was not simply that the system worked. It was determining wher
 
 The full public repository includes the decision records, validation findings, diagrams, implementation components, retrospective, and the transition into the next Kubernetes and IAM-focused investigation.
 
-[Explore the full MCP Platform Case Study →](https://github.com/Robert-N-Myhre/mcp-platform-case-study)
+[Explore the full MCP Platform Case Study →](https://github.com/Robert-N-Myhre/mcp-platform-case-study){ target="_blank" rel="noopener noreferrer" }

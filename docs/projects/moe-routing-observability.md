@@ -3,7 +3,7 @@
 **Context:** Independent AI infrastructure research<br>
 **Status:** Completed research series<br>
 **Domain:** Multi-GPU inference, Mixture of Experts, observability, NUMA/PCIe topology, model placement<br>
-**Repository:** [View the public research repository on GitHub](https://github.com/Robert-N-Myhre/moe-routing-observability)
+**Repository:** [View the public research repository on GitHub](https://github.com/Robert-N-Myhre/moe-routing-observability){ target="_blank" rel="noopener noreferrer" }
 
 ## Overview
 
@@ -87,4 +87,4 @@ The useful findings included both expected behavior and negative results: config
 
 The public repository contains the methodology, findings, lab guides, instrumentation scripts, captured results, reproduction guidance, and provenance describing how AI assistance was used during the research.
 
-[Explore the full MoE Routing Observability research →](https://github.com/Robert-N-Myhre/moe-routing-observability)
+[Explore the full MoE Routing Observability research →](https://github.com/Robert-N-Myhre/moe-routing-observability){ target="_blank" rel="noopener noreferrer" }

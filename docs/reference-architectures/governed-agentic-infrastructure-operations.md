@@ -21,7 +21,7 @@ tags:
 **Author:** Robert N. Myhre  
 **Source baseline:** Project Sentinel Reference Architecture v3.5
 
-**Relationship to Project Boundary.** [Project Boundary](../projects/project-boundary.md) is the public case study for the architecture research effort in which Project Sentinel was developed. This document is the distilled public Reference Architecture from that same work. [Selected supporting evidence](https://github.com/Robert-N-Myhre/project-boundary-evidence) is published separately so architecture intent, research narrative, and implementation evidence remain distinct artifacts.
+**Relationship to Project Boundary.** [Project Boundary](../projects/project-boundary.md) is the public case study for the architecture research effort in which Project Sentinel was developed. This document is the distilled public Reference Architecture from that same work. [Selected supporting evidence](https://github.com/Robert-N-Myhre/project-boundary-evidence){ target="_blank" rel="noopener noreferrer" } is published separately so architecture intent, research narrative, and implementation evidence remain distinct artifacts.
 
 > **Status and claims.** This is a proposed reference architecture distilled from Project Sentinel v3.5. It does not claim production deployment, measured reduction in operating effort, or proven immunity to prompt injection. Some controls have prototype realizations, but production safety, effectiveness, and portability remain subjects of verification. The diagrams describe logical boundaries, not a single mandated product topology.
 
@@ -335,7 +335,7 @@ The reference architecture remains intentionally bounded. It does not specify a 
 ## Related public artifacts
 
 - [Project Boundary — Governing Consequential Automation](../projects/project-boundary.md) — the case study describing the architecture investigation, key discoveries, and why implementation stopped.
-- [Project Boundary Evidence](https://github.com/Robert-N-Myhre/project-boundary-evidence) — selected contemporaneous decisions, executable validation, run artifacts, negative evidence, and project stop-state records supporting the public claims.
+- [Project Boundary Evidence](https://github.com/Robert-N-Myhre/project-boundary-evidence){ target="_blank" rel="noopener noreferrer" } — selected contemporaneous decisions, executable validation, run artifacts, negative evidence, and project stop-state records supporting the public claims.
 
 ---
 

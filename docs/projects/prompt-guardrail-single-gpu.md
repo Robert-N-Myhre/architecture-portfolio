@@ -3,7 +3,7 @@
 **Context:** Independent AI infrastructure and safety research<br>
 **Status:** Completed research series; conditional architecture decision<br>
 **Domain:** AI guardrails, GPU co-residency, deterministic orchestration, prompt injection, inference resource constraints<br>
-**Repository:** [View the public research repository on GitHub](https://github.com/Robert-N-Myhre/Prompt-guardrail-single-gpu)
+**Repository:** [View the public research repository on GitHub](https://github.com/Robert-N-Myhre/Prompt-guardrail-single-gpu){ target="_blank" rel="noopener noreferrer" }
 
 ## Overview
 
@@ -118,4 +118,4 @@ Those findings became a precursor to later work on governed agentic infrastructu
 
 The public repository contains all nine lab guides, evidence files, findings, architecture decisions, measurement and analysis scripts, reproduction guidance, and provenance describing how AI assistance was used during the research.
 
-[Explore the full Prompt Security Guardrails research →](https://github.com/Robert-N-Myhre/Prompt-guardrail-single-gpu)
+[Explore the full Prompt Security Guardrails research →](https://github.com/Robert-N-Myhre/Prompt-guardrail-single-gpu){ target="_blank" rel="noopener noreferrer" }

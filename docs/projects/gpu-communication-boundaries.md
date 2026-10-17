@@ -3,7 +3,7 @@
 **Context:** Independent AI infrastructure research<br>
 **Status:** Completed intra-node investigation; cross-node work deferred<br>
 **Domain:** GPU placement, NUMA/PCIe topology, NCCL transport selection, collective and application performance<br>
-**Repository:** [View the public case-study repository on GitHub](https://github.com/Robert-N-Myhre/gpu-communication-boundaries-case-study)
+**Repository:** [View the public case-study repository on GitHub](https://github.com/Robert-N-Myhre/gpu-communication-boundaries-case-study){ target="_blank" rel="noopener noreferrer" }
 
 ## Overview
 
@@ -67,4 +67,4 @@ The accumulation experiment improved throughput, but also changed optimizer-upda
 
 The public repository contains the full case study, selected evidence, platform qualification methodology, two decision records, a transport-discovery field note, and five unchanged research instruments. The complete run archive and provisioning toolkit are not published.
 
-[Read the full case study →](https://github.com/Robert-N-Myhre/gpu-communication-boundaries-case-study/blob/main/gpu-communication-boundaries-case-study.md) · [Inspect the supporting evidence →](https://github.com/Robert-N-Myhre/gpu-communication-boundaries-case-study/blob/main/evidence/README.md)
+[Read the full case study →](https://github.com/Robert-N-Myhre/gpu-communication-boundaries-case-study/blob/main/gpu-communication-boundaries-case-study.md){ target="_blank" rel="noopener noreferrer" } · [Inspect the supporting evidence →](https://github.com/Robert-N-Myhre/gpu-communication-boundaries-case-study/blob/main/evidence/README.md){ target="_blank" rel="noopener noreferrer" }
