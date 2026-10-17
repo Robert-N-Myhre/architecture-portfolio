@@ -1,6 +1,6 @@
 ---
 title: Project Bridging
-summary: A conceptual investigation into whether AI can help willing people find worthwhile conversations and communicate with agency.
+summary: An independent Human ↔ AI ↔ Human investigation into the possibilities and risks of AI-supported understanding, communication, and human connection.
 tags:
   - Human–AI collaboration
   - Conversational compatibility
@@ -8,7 +8,7 @@ tags:
   - Independent research
 ---
 
-# Project Bridging <span class="bridging-page-subtitle">Exploring whether AI can help people discover others who enjoy exploring ideas together.</span>
+# Project Bridging <span class="bridging-page-subtitle">Human ↔ AI ↔ Human — Exploring understanding, communication, and connection</span>
 
 **Research status:** Conceptual investigation — proposed framework and falsifiable research agenda. **Not implemented or empirically validated.**
 
