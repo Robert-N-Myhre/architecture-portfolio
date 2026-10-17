@@ -49,7 +49,7 @@
 <section class="snapshot-section">
   <div class="snapshot-section-head">
     <h2>Conceptual Investigations</h2>
-    <p>Architectures I developed to explore possibilities. These are proposed designs, not demonstrated production systems; I may return to test them, or leave their open questions visible.</p>
+    <p>Independent investigations into ideas, hypotheses, frameworks, and proposed architectures that remain unproven. Some may eventually become experiments or prototypes; others may remain conceptual explorations.</p>
   </div>
   <div class="snapshot-grid">
     <a class="snapshot-card" href="projects/project-bridging/">
