@@ -1498,16 +1498,16 @@
 .md-typeset > h1 .bridging-page-title {
   display: block;
   color: #ffffff;
-  font-size: clamp(1.85rem, 4vw, 2.55rem);
-  font-weight: 780;
-  letter-spacing: -0.025em;
-  line-height: 1.08;
+  font-size: clamp(1.65rem, 3.2vw, 2.1rem);
+  font-weight: 670;
+  letter-spacing: -0.016em;
+  line-height: 1.12;
 }
 
 .md-typeset > h1 .bridging-page-subtitle {
   display: block;
   max-width: 39rem;
-  margin-top: 0.85rem;
+  margin-top: 0.72rem;
   letter-spacing: normal;
   line-height: 1.45;
 }
