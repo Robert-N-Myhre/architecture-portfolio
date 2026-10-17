@@ -8,7 +8,7 @@ tags:
   - Independent research
 ---
 
-# Project Bridging <span class="bridging-page-subtitle">Human ↔ AI ↔ Human — Exploring understanding, communication, and connection</span>
+# Project Bridging <span class="bridging-page-subtitle"><span class="bridging-page-subtitle__concept">Human ↔ AI ↔ Human</span><span class="bridging-page-subtitle__description">Exploring understanding, communication, and connection</span></span>
 
 **Research status:** Conceptual investigation — proposed framework and falsifiable research agenda. **Not implemented or empirically validated.**
 
