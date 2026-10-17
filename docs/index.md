@@ -4,7 +4,7 @@
   <p class="snapshot-kicker">Independent Technology Research</p>
   <h1 class="snapshot-name">Robert N. Myhre</h1>
   <p class="snapshot-role">Questions · Experiments · Architecture · Evidence</p>
-  <p class="snapshot-lede">I explore technologies because I want to understand how they behave, interact, and fail. My investigations span AI infrastructure, distributed systems, networking, security, automation, and emerging ideas.</p>
+  <p class="snapshot-lede">I explore technologies because I want to understand how they behave, interact, and fail. My investigations span AI infrastructure, human–AI interaction, distributed systems, networking, security, automation, and emerging ideas.</p>
   <p class="snapshot-tagline">Question it. Architect it. Build it. Test it. Explain it.</p>
   <div class="snapshot-actions">
     <a href="#investigations">Explore investigations</a>
@@ -52,6 +52,10 @@
     <p>Architectures I developed to explore possibilities. These are proposed designs, not demonstrated production systems; I may return to test them, or leave their open questions visible.</p>
   </div>
   <div class="snapshot-grid">
+    <a class="snapshot-card" href="projects/project-bridging/">
+      <p class="eyebrow">Conceptual investigation · Working paper</p><h3>Project Bridging</h3>
+      <p>Can conversational patterns help people discover others who genuinely enjoy exploring ideas together, without manufacturing compatibility or compromising autonomy?</p><span class="card-link">Explore the research →</span>
+    </a>
     <a class="snapshot-card" href="reference-architectures/monitor-classify-escalate/">
       <p class="eyebrow">Unproven reference architecture</p><h3>Monitor → Classify → Escalate</h3>
       <p>What would accountable AI-assisted event classification and enrichment require?</p><span class="card-link">Explore the concept →</span>

@@ -17,6 +17,7 @@ A completed implementation is not the definition of success. Discovering that an
 ## Areas that interest me
 
 - AI infrastructure, GPUs, topology, distributed inference, and observability
+- Human–AI collaboration, communication, and agency
 - Networking and distributed systems
 - Identity, security, trust boundaries, and governed automation
 - Cloud and infrastructure platforms

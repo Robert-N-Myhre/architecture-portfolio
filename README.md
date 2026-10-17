@@ -4,7 +4,7 @@ This repository publishes my independent technology investigations at:
 
 **https://robert-n-myhre.github.io/architecture-portfolio/**
 
-I explore questions about AI infrastructure, distributed systems, networking, security, automation, and emerging technologies through prototypes, experiments, and architectural analysis.
+I explore questions about AI infrastructure, human–AI collaboration, distributed systems, networking, security, automation, and emerging technologies through prototypes, experiments, and architectural analysis.
 
 Each investigation starts with a question that interested me, whether or not it led to a working system. My interests and conclusions can change as the evidence develops.
 

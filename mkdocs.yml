@@ -1,7 +1,7 @@
 site_name: "Robert N. Myhre | Independent Technology Research"
 site_url: "https://robert-n-myhre.github.io/architecture-portfolio/"
 site_author: "Robert N. Myhre"
-site_description: "Independent investigations into AI infrastructure, distributed systems, networking, security, automation, and emerging technology."
+site_description: "Independent investigations into AI systems, human–AI collaboration, distributed systems, networking, security, automation, and emerging technology."
 
 nav:
   - Home: index.md
@@ -15,6 +15,9 @@ nav:
       - Architectural Research:
           - Intelligence Placement Under Constraint: projects/intelligence-placement-under-constraint.md
       - Conceptual Investigations:
+          - Project Bridging:
+              - Overview: projects/project-bridging.md
+              - Research Paper: research/project-bridging/ai-as-a-scaffold-for-human-connection.md
           - Monitor → Classify → Escalate: reference-architectures/monitor-classify-escalate.md
           - Plan → Approve → Execute → Verify: reference-architectures/plan-approve-execute-verify.md
   - Research-Derived Architectures:
