@@ -1495,27 +1495,36 @@
 /* Project Bridging — descriptive title and featured researcher's note.
    The page title remains the single primary hero; the personal note is a
    quieter editorial panel, not a second competing header. */
+.md-typeset > h1 .bridging-page-title {
+  display: block;
+  color: #ffffff;
+  font-size: clamp(1.85rem, 4vw, 2.55rem);
+  font-weight: 780;
+  letter-spacing: -0.025em;
+  line-height: 1.08;
+}
+
 .md-typeset > h1 .bridging-page-subtitle {
   display: block;
   max-width: 39rem;
-  margin-top: 0.62rem;
+  margin-top: 0.85rem;
   letter-spacing: normal;
-  line-height: 1.4;
+  line-height: 1.45;
 }
 
 .md-typeset > h1 .bridging-page-subtitle__concept {
   display: block;
-  color: #eef8ff;
-  font-size: clamp(1.04rem, 1.9vw, 1.3rem);
-  font-weight: 620;
+  color: #d7e7f2;
+  font-size: clamp(0.96rem, 1.65vw, 1.12rem);
+  font-weight: 530;
 }
 
 .md-typeset > h1 .bridging-page-subtitle__description {
   display: block;
-  margin-top: 0.24rem;
-  color: #c4e0f1;
-  font-size: clamp(0.85rem, 1.5vw, 1.02rem);
-  font-weight: 450;
+  margin-top: 0.18rem;
+  color: #b7d2e2;
+  font-size: clamp(0.82rem, 1.4vw, 0.96rem);
+  font-weight: 400;
 }
 
 .bridging-research-note {
