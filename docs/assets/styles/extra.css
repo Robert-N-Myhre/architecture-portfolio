@@ -1492,3 +1492,85 @@
   }
 }
 
+/* Project Bridging — descriptive title and featured researcher's note.
+   The page title remains the single primary hero; the personal note is a
+   quieter editorial panel, not a second competing header. */
+.md-typeset > h1 .bridging-page-subtitle {
+  display: block;
+  max-width: 39rem;
+  margin-top: 0.62rem;
+  color: #d1e9f9;
+  font-size: clamp(0.9rem, 1.6vw, 1.12rem);
+  font-weight: 450;
+  letter-spacing: normal;
+  line-height: 1.48;
+}
+
+.bridging-research-note {
+  margin: 1.8rem 0 2rem;
+  padding: 1.3rem 1.55rem;
+  border: 1px solid rgba(37, 123, 170, 0.23);
+  border-left: 4px solid #2387c7;
+  border-radius: 0.85rem;
+  background: linear-gradient(135deg, rgba(45, 131, 182, 0.075), rgba(69, 184, 255, 0.018));
+  box-shadow: 0 9px 26px rgba(0, 40, 70, 0.045);
+}
+
+.bridging-research-note__eyebrow {
+  margin: 0 0 0.35rem !important;
+  color: #176f9f;
+  font-size: 0.65rem;
+  font-weight: 800;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.bridging-research-note h2 {
+  margin: 0 0 0.95rem !important;
+  padding: 0 !important;
+  border: 0 !important;
+  color: var(--md-default-fg-color) !important;
+  font-size: 1.25rem;
+  line-height: 1.25;
+}
+
+.bridging-research-note > p:not(.bridging-research-note__eyebrow) {
+  margin: 0.7rem 0;
+  line-height: 1.72;
+}
+
+.bridging-research-note > p:last-child {
+  margin-bottom: 0;
+}
+
+.bridging-research-note__quote {
+  margin: 1.1rem 0 !important;
+  padding: 0.85rem 0 0.45rem;
+  border-top: 1px solid rgba(37, 123, 170, 0.25);
+  border-left: 0;
+  color: #0b557d;
+  font-size: 1rem;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 1.55;
+}
+
+.bridging-research-note__quote p {
+  margin: 0 !important;
+}
+
+@media (max-width: 760px) {
+  .bridging-research-note {
+    padding: 1.05rem 1.08rem;
+  }
+  .bridging-research-note__quote {
+    font-size: 0.91rem;
+  }
+}
+
+@media print {
+  .bridging-research-note {
+    box-shadow: none;
+    break-inside: auto;
+  }
+}
